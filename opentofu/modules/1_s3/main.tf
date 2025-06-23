@@ -1,24 +1,8 @@
-locals {
-  region = "ap-northeast-1"
-  project = "stock-csv-glue-123456"
-  tag_base = "stock-csv-glue"
-}
-
-provider "aws" {
-  # https://registry.terraform.io/providers/hashicorp/aws/latest/docs
-  region = local.region
-  default_tags {
-    tags = {
-      Project = local.tag_base
-    }
-  }
-}
-
 # S3バケットの作成
 resource "aws_s3_bucket" "stock_data" {
-  bucket = "${local.project}-stock-data"
+  bucket = "${var.project}-stock-data"
   tags = {
-    Project = "${local.tag_base}"
+    Project = var.tag_base
   }
 }
 
@@ -49,6 +33,4 @@ resource "aws_s3_bucket_public_access_block" "stock_data_public_access_block" {
   block_public_policy     = true
   ignore_public_acls      = true
   restrict_public_buckets = true
-}
-
-
+} 
