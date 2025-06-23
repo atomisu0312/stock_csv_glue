@@ -4,3 +4,10 @@ module "s3" {
   tag_base = var.tag_base
   region = var.region
 }
+
+module "role" {
+  source = "../../../modules/0_role"
+  project = var.project
+  tag_base = var.tag_base
+  region = var.region
+}
