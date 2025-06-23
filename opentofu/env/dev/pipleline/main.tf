@@ -15,12 +15,11 @@ locals {
   glue_role_arn  = data.terraform_remote_state.base.outputs.glue_role_arn
 }
 
-# まとめて出力する場合
-output "base_resources" {
-  description = "Baseから取得した全リソース情報"
-  value = {
-    s3_bucket_id   = local.s3_bucket_id
-    s3_bucket_arn  = local.s3_bucket_arn
-    glue_role_arn  = local.glue_role_arn
-  }
+# データカタログの作成
+module "datacatalog" {
+  source = "../../../modules/2_datacatalog"
+  project = var.project
+  tag_base = var.tag_base
+  s3_bucket_id = local.s3_bucket_id
+  glue_role_arn = local.glue_role_arn
 }
