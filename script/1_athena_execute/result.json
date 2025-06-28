@@ -1,0 +1,2620 @@
+{
+    "ResultSet": {
+        "Rows": [
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "date"
+                    },
+                    {
+                        "VarCharValue": "open"
+                    },
+                    {
+                        "VarCharValue": "high"
+                    },
+                    {
+                        "VarCharValue": "low"
+                    },
+                    {
+                        "VarCharValue": "close"
+                    },
+                    {
+                        "VarCharValue": "adj_close"
+                    },
+                    {
+                        "VarCharValue": "volume"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-02-22"
+                    },
+                    {
+                        "VarCharValue": "4.576"
+                    },
+                    {
+                        "VarCharValue": "4.6"
+                    },
+                    {
+                        "VarCharValue": "4.356"
+                    },
+                    {
+                        "VarCharValue": "4.374"
+                    },
+                    {
+                        "VarCharValue": "4.374"
+                    },
+                    {
+                        "VarCharValue": "10323000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-02-23"
+                    },
+                    {
+                        "VarCharValue": "4.436"
+                    },
+                    {
+                        "VarCharValue": "4.5"
+                    },
+                    {
+                        "VarCharValue": "4.222"
+                    },
+                    {
+                        "VarCharValue": "4.366"
+                    },
+                    {
+                        "VarCharValue": "4.366"
+                    },
+                    {
+                        "VarCharValue": "8028000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-02-24"
+                    },
+                    {
+                        "VarCharValue": "4.356"
+                    },
+                    {
+                        "VarCharValue": "4.516"
+                    },
+                    {
+                        "VarCharValue": "4.3"
+                    },
+                    {
+                        "VarCharValue": "4.506"
+                    },
+                    {
+                        "VarCharValue": "4.506"
+                    },
+                    {
+                        "VarCharValue": "5276500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-02-25"
+                    },
+                    {
+                        "VarCharValue": "4.562"
+                    },
+                    {
+                        "VarCharValue": "4.77"
+                    },
+                    {
+                        "VarCharValue": "4.538"
+                    },
+                    {
+                        "VarCharValue": "4.722"
+                    },
+                    {
+                        "VarCharValue": "4.722"
+                    },
+                    {
+                        "VarCharValue": "6731500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-02-28"
+                    },
+                    {
+                        "VarCharValue": "4.748"
+                    },
+                    {
+                        "VarCharValue": "4.82"
+                    },
+                    {
+                        "VarCharValue": "4.7"
+                    },
+                    {
+                        "VarCharValue": "4.778"
+                    },
+                    {
+                        "VarCharValue": "4.778"
+                    },
+                    {
+                        "VarCharValue": "5256000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-01"
+                    },
+                    {
+                        "VarCharValue": "4.81"
+                    },
+                    {
+                        "VarCharValue": "4.864"
+                    },
+                    {
+                        "VarCharValue": "4.74"
+                    },
+                    {
+                        "VarCharValue": "4.788"
+                    },
+                    {
+                        "VarCharValue": "4.788"
+                    },
+                    {
+                        "VarCharValue": "5532000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-02"
+                    },
+                    {
+                        "VarCharValue": "4.764"
+                    },
+                    {
+                        "VarCharValue": "4.856"
+                    },
+                    {
+                        "VarCharValue": "4.746"
+                    },
+                    {
+                        "VarCharValue": "4.804"
+                    },
+                    {
+                        "VarCharValue": "4.804"
+                    },
+                    {
+                        "VarCharValue": "3316500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-03"
+                    },
+                    {
+                        "VarCharValue": "4.896"
+                    },
+                    {
+                        "VarCharValue": "4.958"
+                    },
+                    {
+                        "VarCharValue": "4.812"
+                    },
+                    {
+                        "VarCharValue": "4.872"
+                    },
+                    {
+                        "VarCharValue": "4.872"
+                    },
+                    {
+                        "VarCharValue": "3201000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-04"
+                    },
+                    {
+                        "VarCharValue": "4.896"
+                    },
+                    {
+                        "VarCharValue": "4.998"
+                    },
+                    {
+                        "VarCharValue": "4.756"
+                    },
+                    {
+                        "VarCharValue": "4.99"
+                    },
+                    {
+                        "VarCharValue": "4.99"
+                    },
+                    {
+                        "VarCharValue": "7900500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-07"
+                    },
+                    {
+                        "VarCharValue": "4.986"
+                    },
+                    {
+                        "VarCharValue": "5.08"
+                    },
+                    {
+                        "VarCharValue": "4.94"
+                    },
+                    {
+                        "VarCharValue": "4.988"
+                    },
+                    {
+                        "VarCharValue": "4.988"
+                    },
+                    {
+                        "VarCharValue": "10168000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-08"
+                    },
+                    {
+                        "VarCharValue": "4.92"
+                    },
+                    {
+                        "VarCharValue": "4.992"
+                    },
+                    {
+                        "VarCharValue": "4.8"
+                    },
+                    {
+                        "VarCharValue": "4.932"
+                    },
+                    {
+                        "VarCharValue": "4.932"
+                    },
+                    {
+                        "VarCharValue": "6999500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-09"
+                    },
+                    {
+                        "VarCharValue": "4.932"
+                    },
+                    {
+                        "VarCharValue": "4.998"
+                    },
+                    {
+                        "VarCharValue": "4.854"
+                    },
+                    {
+                        "VarCharValue": "4.944"
+                    },
+                    {
+                        "VarCharValue": "4.944"
+                    },
+                    {
+                        "VarCharValue": "4624000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-10"
+                    },
+                    {
+                        "VarCharValue": "4.888"
+                    },
+                    {
+                        "VarCharValue": "4.898"
+                    },
+                    {
+                        "VarCharValue": "4.746"
+                    },
+                    {
+                        "VarCharValue": "4.802"
+                    },
+                    {
+                        "VarCharValue": "4.802"
+                    },
+                    {
+                        "VarCharValue": "5085000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-11"
+                    },
+                    {
+                        "VarCharValue": "4.77"
+                    },
+                    {
+                        "VarCharValue": "4.85"
+                    },
+                    {
+                        "VarCharValue": "4.706"
+                    },
+                    {
+                        "VarCharValue": "4.814"
+                    },
+                    {
+                        "VarCharValue": "4.814"
+                    },
+                    {
+                        "VarCharValue": "4654000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-14"
+                    },
+                    {
+                        "VarCharValue": "4.764"
+                    },
+                    {
+                        "VarCharValue": "4.8"
+                    },
+                    {
+                        "VarCharValue": "4.64"
+                    },
+                    {
+                        "VarCharValue": "4.65"
+                    },
+                    {
+                        "VarCharValue": "4.65"
+                    },
+                    {
+                        "VarCharValue": "5830000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-15"
+                    },
+                    {
+                        "VarCharValue": "4.44"
+                    },
+                    {
+                        "VarCharValue": "4.592"
+                    },
+                    {
+                        "VarCharValue": "4.36"
+                    },
+                    {
+                        "VarCharValue": "4.59"
+                    },
+                    {
+                        "VarCharValue": "4.59"
+                    },
+                    {
+                        "VarCharValue": "6594000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-16"
+                    },
+                    {
+                        "VarCharValue": "4.572"
+                    },
+                    {
+                        "VarCharValue": "4.65"
+                    },
+                    {
+                        "VarCharValue": "4.538"
+                    },
+                    {
+                        "VarCharValue": "4.564"
+                    },
+                    {
+                        "VarCharValue": "4.564"
+                    },
+                    {
+                        "VarCharValue": "5848500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-17"
+                    },
+                    {
+                        "VarCharValue": "4.648"
+                    },
+                    {
+                        "VarCharValue": "4.686"
+                    },
+                    {
+                        "VarCharValue": "4.528"
+                    },
+                    {
+                        "VarCharValue": "4.562"
+                    },
+                    {
+                        "VarCharValue": "4.562"
+                    },
+                    {
+                        "VarCharValue": "4613000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-18"
+                    },
+                    {
+                        "VarCharValue": "4.638"
+                    },
+                    {
+                        "VarCharValue": "4.638"
+                    },
+                    {
+                        "VarCharValue": "4.502"
+                    },
+                    {
+                        "VarCharValue": "4.592"
+                    },
+                    {
+                        "VarCharValue": "4.592"
+                    },
+                    {
+                        "VarCharValue": "3439500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-21"
+                    },
+                    {
+                        "VarCharValue": "4.61"
+                    },
+                    {
+                        "VarCharValue": "4.61"
+                    },
+                    {
+                        "VarCharValue": "4.508"
+                    },
+                    {
+                        "VarCharValue": "4.546"
+                    },
+                    {
+                        "VarCharValue": "4.546"
+                    },
+                    {
+                        "VarCharValue": "2058500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-22"
+                    },
+                    {
+                        "VarCharValue": "4.546"
+                    },
+                    {
+                        "VarCharValue": "4.572"
+                    },
+                    {
+                        "VarCharValue": "4.4"
+                    },
+                    {
+                        "VarCharValue": "4.438"
+                    },
+                    {
+                        "VarCharValue": "4.438"
+                    },
+                    {
+                        "VarCharValue": "2914500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-23"
+                    },
+                    {
+                        "VarCharValue": "4.422"
+                    },
+                    {
+                        "VarCharValue": "4.454"
+                    },
+                    {
+                        "VarCharValue": "4.354"
+                    },
+                    {
+                        "VarCharValue": "4.442"
+                    },
+                    {
+                        "VarCharValue": "4.442"
+                    },
+                    {
+                        "VarCharValue": "2114000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-24"
+                    },
+                    {
+                        "VarCharValue": "4.428"
+                    },
+                    {
+                        "VarCharValue": "4.476"
+                    },
+                    {
+                        "VarCharValue": "4.396"
+                    },
+                    {
+                        "VarCharValue": "4.466"
+                    },
+                    {
+                        "VarCharValue": "4.466"
+                    },
+                    {
+                        "VarCharValue": "2311000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-25"
+                    },
+                    {
+                        "VarCharValue": "4.486"
+                    },
+                    {
+                        "VarCharValue": "4.6"
+                    },
+                    {
+                        "VarCharValue": "4.48"
+                    },
+                    {
+                        "VarCharValue": "4.55"
+                    },
+                    {
+                        "VarCharValue": "4.55"
+                    },
+                    {
+                        "VarCharValue": "2840000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-28"
+                    },
+                    {
+                        "VarCharValue": "4.54"
+                    },
+                    {
+                        "VarCharValue": "4.708"
+                    },
+                    {
+                        "VarCharValue": "4.51"
+                    },
+                    {
+                        "VarCharValue": "4.65"
+                    },
+                    {
+                        "VarCharValue": "4.65"
+                    },
+                    {
+                        "VarCharValue": "5290500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-29"
+                    },
+                    {
+                        "VarCharValue": "4.66"
+                    },
+                    {
+                        "VarCharValue": "4.8"
+                    },
+                    {
+                        "VarCharValue": "4.642"
+                    },
+                    {
+                        "VarCharValue": "4.784"
+                    },
+                    {
+                        "VarCharValue": "4.784"
+                    },
+                    {
+                        "VarCharValue": "3777000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-30"
+                    },
+                    {
+                        "VarCharValue": "4.822"
+                    },
+                    {
+                        "VarCharValue": "4.898"
+                    },
+                    {
+                        "VarCharValue": "4.602"
+                    },
+                    {
+                        "VarCharValue": "4.742"
+                    },
+                    {
+                        "VarCharValue": "4.742"
+                    },
+                    {
+                        "VarCharValue": "6116500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-03-31"
+                    },
+                    {
+                        "VarCharValue": "5.31"
+                    },
+                    {
+                        "VarCharValue": "5.742"
+                    },
+                    {
+                        "VarCharValue": "5.3"
+                    },
+                    {
+                        "VarCharValue": "5.55"
+                    },
+                    {
+                        "VarCharValue": "5.55"
+                    },
+                    {
+                        "VarCharValue": "57589000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-01"
+                    },
+                    {
+                        "VarCharValue": "5.49"
+                    },
+                    {
+                        "VarCharValue": "5.636"
+                    },
+                    {
+                        "VarCharValue": "5.314"
+                    },
+                    {
+                        "VarCharValue": "5.332"
+                    },
+                    {
+                        "VarCharValue": "5.332"
+                    },
+                    {
+                        "VarCharValue": "14324000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-04"
+                    },
+                    {
+                        "VarCharValue": "5.366"
+                    },
+                    {
+                        "VarCharValue": "5.4"
+                    },
+                    {
+                        "VarCharValue": "5.046"
+                    },
+                    {
+                        "VarCharValue": "5.166"
+                    },
+                    {
+                        "VarCharValue": "5.166"
+                    },
+                    {
+                        "VarCharValue": "13046500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-05"
+                    },
+                    {
+                        "VarCharValue": "5.18"
+                    },
+                    {
+                        "VarCharValue": "5.4"
+                    },
+                    {
+                        "VarCharValue": "5.138"
+                    },
+                    {
+                        "VarCharValue": "5.34"
+                    },
+                    {
+                        "VarCharValue": "5.34"
+                    },
+                    {
+                        "VarCharValue": "15904500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-06"
+                    },
+                    {
+                        "VarCharValue": "5.398"
+                    },
+                    {
+                        "VarCharValue": "5.402"
+                    },
+                    {
+                        "VarCharValue": "5.16"
+                    },
+                    {
+                        "VarCharValue": "5.298"
+                    },
+                    {
+                        "VarCharValue": "5.298"
+                    },
+                    {
+                        "VarCharValue": "6441500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-07"
+                    },
+                    {
+                        "VarCharValue": "5.37"
+                    },
+                    {
+                        "VarCharValue": "5.588"
+                    },
+                    {
+                        "VarCharValue": "5.29"
+                    },
+                    {
+                        "VarCharValue": "5.448"
+                    },
+                    {
+                        "VarCharValue": "5.448"
+                    },
+                    {
+                        "VarCharValue": "14051500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-08"
+                    },
+                    {
+                        "VarCharValue": "5.516"
+                    },
+                    {
+                        "VarCharValue": "5.52"
+                    },
+                    {
+                        "VarCharValue": "5.272"
+                    },
+                    {
+                        "VarCharValue": "5.298"
+                    },
+                    {
+                        "VarCharValue": "5.298"
+                    },
+                    {
+                        "VarCharValue": "9732000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-11"
+                    },
+                    {
+                        "VarCharValue": "5.294"
+                    },
+                    {
+                        "VarCharValue": "5.306"
+                    },
+                    {
+                        "VarCharValue": "5.004"
+                    },
+                    {
+                        "VarCharValue": "5.054"
+                    },
+                    {
+                        "VarCharValue": "5.054"
+                    },
+                    {
+                        "VarCharValue": "6847000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-12"
+                    },
+                    {
+                        "VarCharValue": "5.016"
+                    },
+                    {
+                        "VarCharValue": "5.042"
+                    },
+                    {
+                        "VarCharValue": "4.86"
+                    },
+                    {
+                        "VarCharValue": "4.93"
+                    },
+                    {
+                        "VarCharValue": "4.93"
+                    },
+                    {
+                        "VarCharValue": "6787000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-13"
+                    },
+                    {
+                        "VarCharValue": "5.026"
+                    },
+                    {
+                        "VarCharValue": "5.138"
+                    },
+                    {
+                        "VarCharValue": "4.962"
+                    },
+                    {
+                        "VarCharValue": "4.986"
+                    },
+                    {
+                        "VarCharValue": "4.986"
+                    },
+                    {
+                        "VarCharValue": "6057500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-14"
+                    },
+                    {
+                        "VarCharValue": "4.974"
+                    },
+                    {
+                        "VarCharValue": "5.056"
+                    },
+                    {
+                        "VarCharValue": "4.84"
+                    },
+                    {
+                        "VarCharValue": "5.028"
+                    },
+                    {
+                        "VarCharValue": "5.028"
+                    },
+                    {
+                        "VarCharValue": "4917000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-15"
+                    },
+                    {
+                        "VarCharValue": "5.13"
+                    },
+                    {
+                        "VarCharValue": "5.236"
+                    },
+                    {
+                        "VarCharValue": "5.082"
+                    },
+                    {
+                        "VarCharValue": "5.116"
+                    },
+                    {
+                        "VarCharValue": "5.116"
+                    },
+                    {
+                        "VarCharValue": "4717500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-18"
+                    },
+                    {
+                        "VarCharValue": "5.026"
+                    },
+                    {
+                        "VarCharValue": "5.124"
+                    },
+                    {
+                        "VarCharValue": "4.872"
+                    },
+                    {
+                        "VarCharValue": "5.006"
+                    },
+                    {
+                        "VarCharValue": "5.006"
+                    },
+                    {
+                        "VarCharValue": "5169500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-19"
+                    },
+                    {
+                        "VarCharValue": "5.052"
+                    },
+                    {
+                        "VarCharValue": "5.052"
+                    },
+                    {
+                        "VarCharValue": "4.93"
+                    },
+                    {
+                        "VarCharValue": "5.032"
+                    },
+                    {
+                        "VarCharValue": "5.032"
+                    },
+                    {
+                        "VarCharValue": "2743500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-20"
+                    },
+                    {
+                        "VarCharValue": "5.14"
+                    },
+                    {
+                        "VarCharValue": "5.218"
+                    },
+                    {
+                        "VarCharValue": "5.06"
+                    },
+                    {
+                        "VarCharValue": "5.15"
+                    },
+                    {
+                        "VarCharValue": "5.15"
+                    },
+                    {
+                        "VarCharValue": "4186000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-21"
+                    },
+                    {
+                        "VarCharValue": "5.17"
+                    },
+                    {
+                        "VarCharValue": "5.396"
+                    },
+                    {
+                        "VarCharValue": "5.118"
+                    },
+                    {
+                        "VarCharValue": "5.348"
+                    },
+                    {
+                        "VarCharValue": "5.348"
+                    },
+                    {
+                        "VarCharValue": "6930500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-25"
+                    },
+                    {
+                        "VarCharValue": "5.34"
+                    },
+                    {
+                        "VarCharValue": "5.346"
+                    },
+                    {
+                        "VarCharValue": "5.194"
+                    },
+                    {
+                        "VarCharValue": "5.278"
+                    },
+                    {
+                        "VarCharValue": "5.278"
+                    },
+                    {
+                        "VarCharValue": "4004500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-26"
+                    },
+                    {
+                        "VarCharValue": "5.332"
+                    },
+                    {
+                        "VarCharValue": "5.45"
+                    },
+                    {
+                        "VarCharValue": "5.262"
+                    },
+                    {
+                        "VarCharValue": "5.386"
+                    },
+                    {
+                        "VarCharValue": "5.386"
+                    },
+                    {
+                        "VarCharValue": "7000000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-27"
+                    },
+                    {
+                        "VarCharValue": "5.386"
+                    },
+                    {
+                        "VarCharValue": "5.472"
+                    },
+                    {
+                        "VarCharValue": "5.326"
+                    },
+                    {
+                        "VarCharValue": "5.416"
+                    },
+                    {
+                        "VarCharValue": "5.416"
+                    },
+                    {
+                        "VarCharValue": "4984500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-28"
+                    },
+                    {
+                        "VarCharValue": "5.414"
+                    },
+                    {
+                        "VarCharValue": "5.538"
+                    },
+                    {
+                        "VarCharValue": "5.344"
+                    },
+                    {
+                        "VarCharValue": "5.532"
+                    },
+                    {
+                        "VarCharValue": "5.532"
+                    },
+                    {
+                        "VarCharValue": "8000000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-04-29"
+                    },
+                    {
+                        "VarCharValue": "5.538"
+                    },
+                    {
+                        "VarCharValue": "5.574"
+                    },
+                    {
+                        "VarCharValue": "5.484"
+                    },
+                    {
+                        "VarCharValue": "5.52"
+                    },
+                    {
+                        "VarCharValue": "5.52"
+                    },
+                    {
+                        "VarCharValue": "3630000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-02"
+                    },
+                    {
+                        "VarCharValue": "5.52"
+                    },
+                    {
+                        "VarCharValue": "5.56"
+                    },
+                    {
+                        "VarCharValue": "5.412"
+                    },
+                    {
+                        "VarCharValue": "5.49"
+                    },
+                    {
+                        "VarCharValue": "5.49"
+                    },
+                    {
+                        "VarCharValue": "3923000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-03"
+                    },
+                    {
+                        "VarCharValue": "5.476"
+                    },
+                    {
+                        "VarCharValue": "5.478"
+                    },
+                    {
+                        "VarCharValue": "5.3"
+                    },
+                    {
+                        "VarCharValue": "5.374"
+                    },
+                    {
+                        "VarCharValue": "5.374"
+                    },
+                    {
+                        "VarCharValue": "4569500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-04"
+                    },
+                    {
+                        "VarCharValue": "5.356"
+                    },
+                    {
+                        "VarCharValue": "5.4"
+                    },
+                    {
+                        "VarCharValue": "5.15"
+                    },
+                    {
+                        "VarCharValue": "5.338"
+                    },
+                    {
+                        "VarCharValue": "5.338"
+                    },
+                    {
+                        "VarCharValue": "5222500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-05"
+                    },
+                    {
+                        "VarCharValue": "5.44"
+                    },
+                    {
+                        "VarCharValue": "5.488"
+                    },
+                    {
+                        "VarCharValue": "5.234"
+                    },
+                    {
+                        "VarCharValue": "5.288"
+                    },
+                    {
+                        "VarCharValue": "5.288"
+                    },
+                    {
+                        "VarCharValue": "6092500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-06"
+                    },
+                    {
+                        "VarCharValue": "5.38"
+                    },
+                    {
+                        "VarCharValue": "5.54"
+                    },
+                    {
+                        "VarCharValue": "5.324"
+                    },
+                    {
+                        "VarCharValue": "5.424"
+                    },
+                    {
+                        "VarCharValue": "5.424"
+                    },
+                    {
+                        "VarCharValue": "4908500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-09"
+                    },
+                    {
+                        "VarCharValue": "5.4"
+                    },
+                    {
+                        "VarCharValue": "5.6"
+                    },
+                    {
+                        "VarCharValue": "5.37"
+                    },
+                    {
+                        "VarCharValue": "5.582"
+                    },
+                    {
+                        "VarCharValue": "5.582"
+                    },
+                    {
+                        "VarCharValue": "4582000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-10"
+                    },
+                    {
+                        "VarCharValue": "5.648"
+                    },
+                    {
+                        "VarCharValue": "5.79"
+                    },
+                    {
+                        "VarCharValue": "5.582"
+                    },
+                    {
+                        "VarCharValue": "5.666"
+                    },
+                    {
+                        "VarCharValue": "5.666"
+                    },
+                    {
+                        "VarCharValue": "7676500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-11"
+                    },
+                    {
+                        "VarCharValue": "5.64"
+                    },
+                    {
+                        "VarCharValue": "5.66"
+                    },
+                    {
+                        "VarCharValue": "5.384"
+                    },
+                    {
+                        "VarCharValue": "5.414"
+                    },
+                    {
+                        "VarCharValue": "5.414"
+                    },
+                    {
+                        "VarCharValue": "4812500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-12"
+                    },
+                    {
+                        "VarCharValue": "5.414"
+                    },
+                    {
+                        "VarCharValue": "5.548"
+                    },
+                    {
+                        "VarCharValue": "5.33"
+                    },
+                    {
+                        "VarCharValue": "5.534"
+                    },
+                    {
+                        "VarCharValue": "5.534"
+                    },
+                    {
+                        "VarCharValue": "3140000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-13"
+                    },
+                    {
+                        "VarCharValue": "5.6"
+                    },
+                    {
+                        "VarCharValue": "5.638"
+                    },
+                    {
+                        "VarCharValue": "5.46"
+                    },
+                    {
+                        "VarCharValue": "5.51"
+                    },
+                    {
+                        "VarCharValue": "5.51"
+                    },
+                    {
+                        "VarCharValue": "3307500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-16"
+                    },
+                    {
+                        "VarCharValue": "5.598"
+                    },
+                    {
+                        "VarCharValue": "5.598"
+                    },
+                    {
+                        "VarCharValue": "5.31"
+                    },
+                    {
+                        "VarCharValue": "5.32"
+                    },
+                    {
+                        "VarCharValue": "5.32"
+                    },
+                    {
+                        "VarCharValue": "3778500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-17"
+                    },
+                    {
+                        "VarCharValue": "5.4"
+                    },
+                    {
+                        "VarCharValue": "5.4"
+                    },
+                    {
+                        "VarCharValue": "5.144"
+                    },
+                    {
+                        "VarCharValue": "5.192"
+                    },
+                    {
+                        "VarCharValue": "5.192"
+                    },
+                    {
+                        "VarCharValue": "6171000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-18"
+                    },
+                    {
+                        "VarCharValue": "5.22"
+                    },
+                    {
+                        "VarCharValue": "5.294"
+                    },
+                    {
+                        "VarCharValue": "5.104"
+                    },
+                    {
+                        "VarCharValue": "5.27"
+                    },
+                    {
+                        "VarCharValue": "5.27"
+                    },
+                    {
+                        "VarCharValue": "3647500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-19"
+                    },
+                    {
+                        "VarCharValue": "5.406"
+                    },
+                    {
+                        "VarCharValue": "5.688"
+                    },
+                    {
+                        "VarCharValue": "5.32"
+                    },
+                    {
+                        "VarCharValue": "5.64"
+                    },
+                    {
+                        "VarCharValue": "5.64"
+                    },
+                    {
+                        "VarCharValue": "13275500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-20"
+                    },
+                    {
+                        "VarCharValue": "5.652"
+                    },
+                    {
+                        "VarCharValue": "5.656"
+                    },
+                    {
+                        "VarCharValue": "5.47"
+                    },
+                    {
+                        "VarCharValue": "5.594"
+                    },
+                    {
+                        "VarCharValue": "5.594"
+                    },
+                    {
+                        "VarCharValue": "4212500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-23"
+                    },
+                    {
+                        "VarCharValue": "5.524"
+                    },
+                    {
+                        "VarCharValue": "5.524"
+                    },
+                    {
+                        "VarCharValue": "5.324"
+                    },
+                    {
+                        "VarCharValue": "5.364"
+                    },
+                    {
+                        "VarCharValue": "5.364"
+                    },
+                    {
+                        "VarCharValue": "4318000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-24"
+                    },
+                    {
+                        "VarCharValue": "5.404"
+                    },
+                    {
+                        "VarCharValue": "5.5"
+                    },
+                    {
+                        "VarCharValue": "5.32"
+                    },
+                    {
+                        "VarCharValue": "5.344"
+                    },
+                    {
+                        "VarCharValue": "5.344"
+                    },
+                    {
+                        "VarCharValue": "3068500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-25"
+                    },
+                    {
+                        "VarCharValue": "5.38"
+                    },
+                    {
+                        "VarCharValue": "5.802"
+                    },
+                    {
+                        "VarCharValue": "5.234"
+                    },
+                    {
+                        "VarCharValue": "5.796"
+                    },
+                    {
+                        "VarCharValue": "5.796"
+                    },
+                    {
+                        "VarCharValue": "23465500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-26"
+                    },
+                    {
+                        "VarCharValue": "5.764"
+                    },
+                    {
+                        "VarCharValue": "5.952"
+                    },
+                    {
+                        "VarCharValue": "5.62"
+                    },
+                    {
+                        "VarCharValue": "5.896"
+                    },
+                    {
+                        "VarCharValue": "5.896"
+                    },
+                    {
+                        "VarCharValue": "16684500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-27"
+                    },
+                    {
+                        "VarCharValue": "5.908"
+                    },
+                    {
+                        "VarCharValue": "5.934"
+                    },
+                    {
+                        "VarCharValue": "5.764"
+                    },
+                    {
+                        "VarCharValue": "5.91"
+                    },
+                    {
+                        "VarCharValue": "5.91"
+                    },
+                    {
+                        "VarCharValue": "8435500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-05-31"
+                    },
+                    {
+                        "VarCharValue": "5.938"
+                    },
+                    {
+                        "VarCharValue": "6.056"
+                    },
+                    {
+                        "VarCharValue": "5.91"
+                    },
+                    {
+                        "VarCharValue": "6.028"
+                    },
+                    {
+                        "VarCharValue": "6.028"
+                    },
+                    {
+                        "VarCharValue": "16452500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-01"
+                    },
+                    {
+                        "VarCharValue": "6.0"
+                    },
+                    {
+                        "VarCharValue": "6.02"
+                    },
+                    {
+                        "VarCharValue": "5.676"
+                    },
+                    {
+                        "VarCharValue": "5.704"
+                    },
+                    {
+                        "VarCharValue": "5.704"
+                    },
+                    {
+                        "VarCharValue": "7649500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-02"
+                    },
+                    {
+                        "VarCharValue": "5.704"
+                    },
+                    {
+                        "VarCharValue": "5.864"
+                    },
+                    {
+                        "VarCharValue": "5.702"
+                    },
+                    {
+                        "VarCharValue": "5.752"
+                    },
+                    {
+                        "VarCharValue": "5.752"
+                    },
+                    {
+                        "VarCharValue": "4931500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-03"
+                    },
+                    {
+                        "VarCharValue": "5.99"
+                    },
+                    {
+                        "VarCharValue": "6.3"
+                    },
+                    {
+                        "VarCharValue": "5.9"
+                    },
+                    {
+                        "VarCharValue": "6.026"
+                    },
+                    {
+                        "VarCharValue": "6.026"
+                    },
+                    {
+                        "VarCharValue": "31046000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-06"
+                    },
+                    {
+                        "VarCharValue": "6.02"
+                    },
+                    {
+                        "VarCharValue": "6.026"
+                    },
+                    {
+                        "VarCharValue": "5.652"
+                    },
+                    {
+                        "VarCharValue": "5.74"
+                    },
+                    {
+                        "VarCharValue": "5.74"
+                    },
+                    {
+                        "VarCharValue": "11655500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-07"
+                    },
+                    {
+                        "VarCharValue": "5.788"
+                    },
+                    {
+                        "VarCharValue": "5.878"
+                    },
+                    {
+                        "VarCharValue": "5.652"
+                    },
+                    {
+                        "VarCharValue": "5.674"
+                    },
+                    {
+                        "VarCharValue": "5.674"
+                    },
+                    {
+                        "VarCharValue": "6110500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-08"
+                    },
+                    {
+                        "VarCharValue": "5.688"
+                    },
+                    {
+                        "VarCharValue": "5.72"
+                    },
+                    {
+                        "VarCharValue": "5.404"
+                    },
+                    {
+                        "VarCharValue": "5.424"
+                    },
+                    {
+                        "VarCharValue": "5.424"
+                    },
+                    {
+                        "VarCharValue": "8479500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-09"
+                    },
+                    {
+                        "VarCharValue": "5.486"
+                    },
+                    {
+                        "VarCharValue": "5.62"
+                    },
+                    {
+                        "VarCharValue": "5.42"
+                    },
+                    {
+                        "VarCharValue": "5.524"
+                    },
+                    {
+                        "VarCharValue": "5.524"
+                    },
+                    {
+                        "VarCharValue": "8016000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-10"
+                    },
+                    {
+                        "VarCharValue": "5.504"
+                    },
+                    {
+                        "VarCharValue": "5.66"
+                    },
+                    {
+                        "VarCharValue": "5.47"
+                    },
+                    {
+                        "VarCharValue": "5.572"
+                    },
+                    {
+                        "VarCharValue": "5.572"
+                    },
+                    {
+                        "VarCharValue": "7833000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-13"
+                    },
+                    {
+                        "VarCharValue": "5.614"
+                    },
+                    {
+                        "VarCharValue": "5.776"
+                    },
+                    {
+                        "VarCharValue": "5.576"
+                    },
+                    {
+                        "VarCharValue": "5.686"
+                    },
+                    {
+                        "VarCharValue": "5.686"
+                    },
+                    {
+                        "VarCharValue": "8567000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-14"
+                    },
+                    {
+                        "VarCharValue": "5.708"
+                    },
+                    {
+                        "VarCharValue": "5.94"
+                    },
+                    {
+                        "VarCharValue": "5.704"
+                    },
+                    {
+                        "VarCharValue": "5.72"
+                    },
+                    {
+                        "VarCharValue": "5.72"
+                    },
+                    {
+                        "VarCharValue": "7867000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-15"
+                    },
+                    {
+                        "VarCharValue": "5.688"
+                    },
+                    {
+                        "VarCharValue": "5.69"
+                    },
+                    {
+                        "VarCharValue": "5.414"
+                    },
+                    {
+                        "VarCharValue": "5.464"
+                    },
+                    {
+                        "VarCharValue": "5.464"
+                    },
+                    {
+                        "VarCharValue": "6725000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-16"
+                    },
+                    {
+                        "VarCharValue": "5.534"
+                    },
+                    {
+                        "VarCharValue": "5.6"
+                    },
+                    {
+                        "VarCharValue": "5.148"
+                    },
+                    {
+                        "VarCharValue": "5.3"
+                    },
+                    {
+                        "VarCharValue": "5.3"
+                    },
+                    {
+                        "VarCharValue": "9211000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-17"
+                    },
+                    {
+                        "VarCharValue": "5.374"
+                    },
+                    {
+                        "VarCharValue": "5.54"
+                    },
+                    {
+                        "VarCharValue": "5.228"
+                    },
+                    {
+                        "VarCharValue": "5.3"
+                    },
+                    {
+                        "VarCharValue": "5.3"
+                    },
+                    {
+                        "VarCharValue": "8570000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-20"
+                    },
+                    {
+                        "VarCharValue": "5.258"
+                    },
+                    {
+                        "VarCharValue": "5.292"
+                    },
+                    {
+                        "VarCharValue": "5.1"
+                    },
+                    {
+                        "VarCharValue": "5.202"
+                    },
+                    {
+                        "VarCharValue": "5.202"
+                    },
+                    {
+                        "VarCharValue": "7689000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-21"
+                    },
+                    {
+                        "VarCharValue": "5.248"
+                    },
+                    {
+                        "VarCharValue": "5.546"
+                    },
+                    {
+                        "VarCharValue": "5.2"
+                    },
+                    {
+                        "VarCharValue": "5.506"
+                    },
+                    {
+                        "VarCharValue": "5.506"
+                    },
+                    {
+                        "VarCharValue": "7480000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-22"
+                    },
+                    {
+                        "VarCharValue": "5.474"
+                    },
+                    {
+                        "VarCharValue": "5.65"
+                    },
+                    {
+                        "VarCharValue": "5.42"
+                    },
+                    {
+                        "VarCharValue": "5.442"
+                    },
+                    {
+                        "VarCharValue": "5.442"
+                    },
+                    {
+                        "VarCharValue": "7378000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-23"
+                    },
+                    {
+                        "VarCharValue": "5.44"
+                    },
+                    {
+                        "VarCharValue": "5.544"
+                    },
+                    {
+                        "VarCharValue": "5.242"
+                    },
+                    {
+                        "VarCharValue": "5.542"
+                    },
+                    {
+                        "VarCharValue": "5.542"
+                    },
+                    {
+                        "VarCharValue": "5850000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-24"
+                    },
+                    {
+                        "VarCharValue": "5.528"
+                    },
+                    {
+                        "VarCharValue": "5.594"
+                    },
+                    {
+                        "VarCharValue": "5.452"
+                    },
+                    {
+                        "VarCharValue": "5.514"
+                    },
+                    {
+                        "VarCharValue": "5.514"
+                    },
+                    {
+                        "VarCharValue": "18042500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-27"
+                    },
+                    {
+                        "VarCharValue": "5.546"
+                    },
+                    {
+                        "VarCharValue": "5.656"
+                    },
+                    {
+                        "VarCharValue": "5.462"
+                    },
+                    {
+                        "VarCharValue": "5.492"
+                    },
+                    {
+                        "VarCharValue": "5.492"
+                    },
+                    {
+                        "VarCharValue": "9047000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-28"
+                    },
+                    {
+                        "VarCharValue": "5.558"
+                    },
+                    {
+                        "VarCharValue": "5.65"
+                    },
+                    {
+                        "VarCharValue": "5.534"
+                    },
+                    {
+                        "VarCharValue": "5.622"
+                    },
+                    {
+                        "VarCharValue": "5.622"
+                    },
+                    {
+                        "VarCharValue": "4446000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-29"
+                    },
+                    {
+                        "VarCharValue": "5.7"
+                    },
+                    {
+                        "VarCharValue": "5.818"
+                    },
+                    {
+                        "VarCharValue": "5.614"
+                    },
+                    {
+                        "VarCharValue": "5.658"
+                    },
+                    {
+                        "VarCharValue": "5.658"
+                    },
+                    {
+                        "VarCharValue": "7309000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-06-30"
+                    },
+                    {
+                        "VarCharValue": "5.7"
+                    },
+                    {
+                        "VarCharValue": "5.866"
+                    },
+                    {
+                        "VarCharValue": "5.68"
+                    },
+                    {
+                        "VarCharValue": "5.826"
+                    },
+                    {
+                        "VarCharValue": "5.826"
+                    },
+                    {
+                        "VarCharValue": "4733500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-01"
+                    },
+                    {
+                        "VarCharValue": "5.814"
+                    },
+                    {
+                        "VarCharValue": "5.92"
+                    },
+                    {
+                        "VarCharValue": "5.76"
+                    },
+                    {
+                        "VarCharValue": "5.804"
+                    },
+                    {
+                        "VarCharValue": "5.804"
+                    },
+                    {
+                        "VarCharValue": "4274500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-05"
+                    },
+                    {
+                        "VarCharValue": "5.804"
+                    },
+                    {
+                        "VarCharValue": "5.904"
+                    },
+                    {
+                        "VarCharValue": "5.742"
+                    },
+                    {
+                        "VarCharValue": "5.828"
+                    },
+                    {
+                        "VarCharValue": "5.828"
+                    },
+                    {
+                        "VarCharValue": "4980000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-06"
+                    },
+                    {
+                        "VarCharValue": "5.828"
+                    },
+                    {
+                        "VarCharValue": "5.828"
+                    },
+                    {
+                        "VarCharValue": "5.71"
+                    },
+                    {
+                        "VarCharValue": "5.792"
+                    },
+                    {
+                        "VarCharValue": "5.792"
+                    },
+                    {
+                        "VarCharValue": "4634500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-07"
+                    },
+                    {
+                        "VarCharValue": "5.828"
+                    },
+                    {
+                        "VarCharValue": "6.0"
+                    },
+                    {
+                        "VarCharValue": "5.802"
+                    },
+                    {
+                        "VarCharValue": "5.946"
+                    },
+                    {
+                        "VarCharValue": "5.946"
+                    },
+                    {
+                        "VarCharValue": "6639500"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-08"
+                    },
+                    {
+                        "VarCharValue": "5.978"
+                    },
+                    {
+                        "VarCharValue": "5.978"
+                    },
+                    {
+                        "VarCharValue": "5.718"
+                    },
+                    {
+                        "VarCharValue": "5.762"
+                    },
+                    {
+                        "VarCharValue": "5.762"
+                    },
+                    {
+                        "VarCharValue": "6203000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-11"
+                    },
+                    {
+                        "VarCharValue": "5.68"
+                    },
+                    {
+                        "VarCharValue": "5.706"
+                    },
+                    {
+                        "VarCharValue": "5.6"
+                    },
+                    {
+                        "VarCharValue": "5.67"
+                    },
+                    {
+                        "VarCharValue": "5.67"
+                    },
+                    {
+                        "VarCharValue": "4879000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-12"
+                    },
+                    {
+                        "VarCharValue": "5.674"
+                    },
+                    {
+                        "VarCharValue": "5.818"
+                    },
+                    {
+                        "VarCharValue": "5.6"
+                    },
+                    {
+                        "VarCharValue": "5.634"
+                    },
+                    {
+                        "VarCharValue": "5.634"
+                    },
+                    {
+                        "VarCharValue": "5227000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-13"
+                    },
+                    {
+                        "VarCharValue": "5.686"
+                    },
+                    {
+                        "VarCharValue": "5.806"
+                    },
+                    {
+                        "VarCharValue": "5.58"
+                    },
+                    {
+                        "VarCharValue": "5.728"
+                    },
+                    {
+                        "VarCharValue": "5.728"
+                    },
+                    {
+                        "VarCharValue": "5330000"
+                    }
+                ]
+            },
+            {
+                "Data": [
+                    {
+                        "VarCharValue": "2011-07-14"
+                    },
+                    {
+                        "VarCharValue": "5.706"
+                    },
+                    {
+                        "VarCharValue": "5.792"
+                    },
+                    {
+                        "VarCharValue": "5.45"
+                    },
+                    {
+                        "VarCharValue": "5.522"
+                    },
+                    {
+                        "VarCharValue": "5.522"
+                    },
+                    {
+                        "VarCharValue": "5795000"
+                    }
+                ]
+            }
+        ],
+        "ResultSetMetadata": {
+            "ColumnInfo": [
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "date",
+                    "Label": "date",
+                    "Type": "varchar",
+                    "Precision": 2147483647,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": true
+                },
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "open",
+                    "Label": "open",
+                    "Type": "double",
+                    "Precision": 17,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": false
+                },
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "high",
+                    "Label": "high",
+                    "Type": "double",
+                    "Precision": 17,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": false
+                },
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "low",
+                    "Label": "low",
+                    "Type": "double",
+                    "Precision": 17,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": false
+                },
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "close",
+                    "Label": "close",
+                    "Type": "double",
+                    "Precision": 17,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": false
+                },
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "adj_close",
+                    "Label": "adj_close",
+                    "Type": "double",
+                    "Precision": 17,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": false
+                },
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "volume",
+                    "Label": "volume",
+                    "Type": "bigint",
+                    "Precision": 19,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": false
+                }
+            ]
+        }
+    },
+    "UpdateCount": 0
+}

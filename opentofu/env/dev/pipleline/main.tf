@@ -23,3 +23,12 @@ module "datacatalog" {
   s3_bucket_id = local.s3_bucket_id
   glue_role_arn = local.glue_role_arn
 }
+
+module "athena" {
+  source = "../../../modules/3_athena"
+  project = var.project
+  tag_base = var.tag_base
+  s3_bucket_id = local.s3_bucket_id
+  database_name = module.datacatalog.database_name
+  table_name = module.datacatalog.table_name
+}
