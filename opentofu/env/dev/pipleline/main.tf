@@ -32,3 +32,11 @@ module "athena" {
   database_name = module.datacatalog.database_name
   table_name = module.datacatalog.table_name
 }
+
+module "glueetl" {
+  source = "../../../modules/4_glueetl"
+  project = var.project
+  tag_base = var.tag_base
+  glue_role_arn = local.glue_role_arn
+  database_name = module.datacatalog.database_name
+}
