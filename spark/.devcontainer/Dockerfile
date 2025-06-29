@@ -9,7 +9,7 @@ WORKDIR ${WORKDIR}
 
 RUN sudo apt-get -y update && apt-get -y upgrade && \
     sudo apt-get install -y default-jdk && \
-    sudo apt-get install -y git tar python3 python3-pip python3-xyzservices && \
+    sudo apt-get install -y git tar python3 python3-pip && \
     pip3 install -U pip --break-system-packages --no-cache-dir && \
     pip3 install pre-commit --break-system-packages --no-cache-dir && \
     # Install pyspark and more
