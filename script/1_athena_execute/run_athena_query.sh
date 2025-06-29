@@ -3,7 +3,7 @@
 # Athenaクエリ実行スクリプト
 # 使用方法: ./run_athena_query.sh [WORKGROUP_NAME] [REGION] [BUCKET_NAME] [QUERY_INDEX]
 
-set -e
+set -eu
 
 # デフォルト値
 DEFAULT_REGION="ap-northeast-1"
