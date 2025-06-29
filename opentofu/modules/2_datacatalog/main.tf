@@ -29,38 +29,42 @@ resource "aws_glue_catalog_table" "stock_data" {
     
     # 株価データのカラム定義
     columns {
+      name = "code"
+      type = "string"
+    }
+    columns {
       name = "date"
       type = "string"
     }
     
     columns {
       name = "open"
-      type = "double"
+      type = "string"
     }
     
     columns {
       name = "high"
-      type = "double"
+      type = "string"
     }
     
     columns {
       name = "low"
-      type = "double"
+      type = "string"
     }
     
     columns {
       name = "close"
-      type = "double"
+      type = "string"
     }
     
     columns {
       name = "adj_close"
-      type = "double"
+      type = "string"
     }
     
     columns {
       name = "volume"
-      type = "bigint"
+      type = "string"
     }
   }
   
