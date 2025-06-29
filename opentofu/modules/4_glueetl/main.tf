@@ -24,6 +24,7 @@ resource "aws_glue_job" "stock_data_job" {
   max_capacity = 2.0
   max_retries = 0
   timeout = 2880
+  execution_class = "STANDARD"
 
   tags = {
     Project = var.tag_base

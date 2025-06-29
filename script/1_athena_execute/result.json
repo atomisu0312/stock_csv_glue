@@ -4,6 +4,9 @@
             {
                 "Data": [
                     {
+                        "VarCharValue": "code"
+                    },
+                    {
                         "VarCharValue": "date"
                     },
                     {
@@ -29,2506 +32,2818 @@
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-02-22"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.576"
+                        "VarCharValue": "Apr 17, 2025"
                     },
                     {
-                        "VarCharValue": "4.6"
+                        "VarCharValue": "176.00"
                     },
                     {
-                        "VarCharValue": "4.356"
+                        "VarCharValue": "176.21"
                     },
                     {
-                        "VarCharValue": "4.374"
+                        "VarCharValue": "172.00"
                     },
                     {
-                        "VarCharValue": "4.374"
+                        "VarCharValue": "172.61"
                     },
                     {
-                        "VarCharValue": "10323000"
+                        "VarCharValue": "172.61"
+                    },
+                    {
+                        "VarCharValue": "44,468,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-02-23"
+                        "VarCharValue": "Apr 16, 2025"
                     },
                     {
-                        "VarCharValue": "4.436"
+                        "VarCharValue": "176.29"
                     },
                     {
-                        "VarCharValue": "4.5"
+                        "VarCharValue": "179.10"
                     },
                     {
-                        "VarCharValue": "4.222"
+                        "VarCharValue": "171.41"
                     },
                     {
-                        "VarCharValue": "4.366"
+                        "VarCharValue": "174.33"
                     },
                     {
-                        "VarCharValue": "4.366"
+                        "VarCharValue": "174.33"
                     },
                     {
-                        "VarCharValue": "8028000"
+                        "VarCharValue": "51,875,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-02-24"
+                        "VarCharValue": "Apr 15, 2025"
                     },
                     {
-                        "VarCharValue": "4.356"
+                        "VarCharValue": "181.41"
                     },
                     {
-                        "VarCharValue": "4.516"
+                        "VarCharValue": "182.35"
                     },
                     {
-                        "VarCharValue": "4.3"
+                        "VarCharValue": "177.93"
                     },
                     {
-                        "VarCharValue": "4.506"
+                        "VarCharValue": "179.59"
                     },
                     {
-                        "VarCharValue": "4.506"
+                        "VarCharValue": "179.59"
                     },
                     {
-                        "VarCharValue": "5276500"
+                        "VarCharValue": "43,642,000"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-02-25"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.562"
+                        "VarCharValue": "Apr 14, 2025"
                     },
                     {
-                        "VarCharValue": "4.77"
+                        "VarCharValue": "186.84"
                     },
                     {
-                        "VarCharValue": "4.538"
+                        "VarCharValue": "187.44"
                     },
                     {
-                        "VarCharValue": "4.722"
+                        "VarCharValue": "179.23"
                     },
                     {
-                        "VarCharValue": "4.722"
+                        "VarCharValue": "182.12"
                     },
                     {
-                        "VarCharValue": "6731500"
+                        "VarCharValue": "182.12"
+                    },
+                    {
+                        "VarCharValue": "48,002,500"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-02-28"
+                        "VarCharValue": "Apr 11, 2025"
                     },
                     {
-                        "VarCharValue": "4.748"
+                        "VarCharValue": "179.93"
                     },
                     {
-                        "VarCharValue": "4.82"
+                        "VarCharValue": "185.86"
                     },
                     {
-                        "VarCharValue": "4.7"
+                        "VarCharValue": "178.00"
                     },
                     {
-                        "VarCharValue": "4.778"
+                        "VarCharValue": "184.87"
                     },
                     {
-                        "VarCharValue": "4.778"
+                        "VarCharValue": "184.87"
                     },
                     {
-                        "VarCharValue": "5256000"
+                        "VarCharValue": "50,594,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-01"
+                        "VarCharValue": "Apr 10, 2025"
                     },
                     {
-                        "VarCharValue": "4.81"
+                        "VarCharValue": "185.44"
                     },
                     {
-                        "VarCharValue": "4.864"
+                        "VarCharValue": "186.87"
                     },
                     {
-                        "VarCharValue": "4.74"
+                        "VarCharValue": "175.85"
                     },
                     {
-                        "VarCharValue": "4.788"
+                        "VarCharValue": "181.22"
                     },
                     {
-                        "VarCharValue": "4.788"
+                        "VarCharValue": "181.22"
                     },
                     {
-                        "VarCharValue": "5532000"
+                        "VarCharValue": "68,302,000"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-02"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.764"
+                        "VarCharValue": "Apr 9, 2025"
                     },
                     {
-                        "VarCharValue": "4.856"
+                        "VarCharValue": "172.12"
                     },
                     {
-                        "VarCharValue": "4.746"
+                        "VarCharValue": "192.65"
                     },
                     {
-                        "VarCharValue": "4.804"
+                        "VarCharValue": "169.93"
                     },
                     {
-                        "VarCharValue": "4.804"
+                        "VarCharValue": "191.10"
                     },
                     {
-                        "VarCharValue": "3316500"
+                        "VarCharValue": "191.10"
+                    },
+                    {
+                        "VarCharValue": "116,804,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-03"
+                        "VarCharValue": "Apr 8, 2025"
                     },
                     {
-                        "VarCharValue": "4.896"
+                        "VarCharValue": "185.23"
                     },
                     {
-                        "VarCharValue": "4.958"
+                        "VarCharValue": "185.90"
                     },
                     {
-                        "VarCharValue": "4.812"
+                        "VarCharValue": "168.57"
                     },
                     {
-                        "VarCharValue": "4.872"
+                        "VarCharValue": "170.66"
                     },
                     {
-                        "VarCharValue": "4.872"
+                        "VarCharValue": "170.66"
                     },
                     {
-                        "VarCharValue": "3201000"
+                        "VarCharValue": "87,710,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-04"
+                        "VarCharValue": "Apr 7, 2025"
                     },
                     {
-                        "VarCharValue": "4.896"
+                        "VarCharValue": "162.00"
                     },
                     {
-                        "VarCharValue": "4.998"
+                        "VarCharValue": "183.41"
                     },
                     {
-                        "VarCharValue": "4.756"
+                        "VarCharValue": "161.38"
                     },
                     {
-                        "VarCharValue": "4.99"
+                        "VarCharValue": "175.26"
                     },
                     {
-                        "VarCharValue": "4.99"
+                        "VarCharValue": "175.26"
                     },
                     {
-                        "VarCharValue": "7900500"
+                        "VarCharValue": "109,327,100"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-07"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.986"
+                        "VarCharValue": "Apr 4, 2025"
                     },
                     {
-                        "VarCharValue": "5.08"
+                        "VarCharValue": "167.15"
                     },
                     {
-                        "VarCharValue": "4.94"
+                        "VarCharValue": "178.14"
                     },
                     {
-                        "VarCharValue": "4.988"
+                        "VarCharValue": "166.00"
                     },
                     {
-                        "VarCharValue": "4.988"
+                        "VarCharValue": "171.00"
                     },
                     {
-                        "VarCharValue": "10168000"
+                        "VarCharValue": "171.00"
+                    },
+                    {
+                        "VarCharValue": "123,159,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-08"
+                        "VarCharValue": "Apr 3, 2025"
                     },
                     {
-                        "VarCharValue": "4.92"
+                        "VarCharValue": "183.00"
                     },
                     {
-                        "VarCharValue": "4.992"
+                        "VarCharValue": "184.13"
                     },
                     {
-                        "VarCharValue": "4.8"
+                        "VarCharValue": "176.92"
                     },
                     {
-                        "VarCharValue": "4.932"
+                        "VarCharValue": "178.41"
                     },
                     {
-                        "VarCharValue": "4.932"
+                        "VarCharValue": "178.41"
                     },
                     {
-                        "VarCharValue": "6999500"
+                        "VarCharValue": "95,553,600"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-09"
+                        "VarCharValue": "Apr 2, 2025"
                     },
                     {
-                        "VarCharValue": "4.932"
+                        "VarCharValue": "187.66"
                     },
                     {
-                        "VarCharValue": "4.998"
+                        "VarCharValue": "198.34"
                     },
                     {
-                        "VarCharValue": "4.854"
+                        "VarCharValue": "187.66"
                     },
                     {
-                        "VarCharValue": "4.944"
+                        "VarCharValue": "196.01"
                     },
                     {
-                        "VarCharValue": "4.944"
+                        "VarCharValue": "196.01"
                     },
                     {
-                        "VarCharValue": "4624000"
+                        "VarCharValue": "53,679,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-10"
+                        "VarCharValue": "Apr 1, 2025"
                     },
                     {
-                        "VarCharValue": "4.888"
+                        "VarCharValue": "187.86"
                     },
                     {
-                        "VarCharValue": "4.898"
+                        "VarCharValue": "193.93"
                     },
                     {
-                        "VarCharValue": "4.746"
+                        "VarCharValue": "187.20"
                     },
                     {
-                        "VarCharValue": "4.802"
+                        "VarCharValue": "192.17"
                     },
                     {
-                        "VarCharValue": "4.802"
+                        "VarCharValue": "192.17"
                     },
                     {
-                        "VarCharValue": "5085000"
+                        "VarCharValue": "41,267,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-11"
+                        "VarCharValue": "Mar 31, 2025"
                     },
                     {
-                        "VarCharValue": "4.77"
+                        "VarCharValue": "188.19"
                     },
                     {
-                        "VarCharValue": "4.85"
+                        "VarCharValue": "191.33"
                     },
                     {
-                        "VarCharValue": "4.706"
+                        "VarCharValue": "184.40"
                     },
                     {
-                        "VarCharValue": "4.814"
+                        "VarCharValue": "190.26"
                     },
                     {
-                        "VarCharValue": "4.814"
+                        "VarCharValue": "190.26"
                     },
                     {
-                        "VarCharValue": "4654000"
+                        "VarCharValue": "63,547,600"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-14"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.764"
+                        "VarCharValue": "Mar 28, 2025"
                     },
                     {
-                        "VarCharValue": "4.8"
+                        "VarCharValue": "198.42"
                     },
                     {
-                        "VarCharValue": "4.64"
+                        "VarCharValue": "199.26"
                     },
                     {
-                        "VarCharValue": "4.65"
+                        "VarCharValue": "191.88"
                     },
                     {
-                        "VarCharValue": "4.65"
+                        "VarCharValue": "192.72"
                     },
                     {
-                        "VarCharValue": "5830000"
+                        "VarCharValue": "192.72"
+                    },
+                    {
+                        "VarCharValue": "52,548,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-15"
+                        "VarCharValue": "Mar 27, 2025"
                     },
                     {
-                        "VarCharValue": "4.44"
+                        "VarCharValue": "200.89"
                     },
                     {
-                        "VarCharValue": "4.592"
+                        "VarCharValue": "203.79"
                     },
                     {
-                        "VarCharValue": "4.36"
+                        "VarCharValue": "199.28"
                     },
                     {
-                        "VarCharValue": "4.59"
+                        "VarCharValue": "201.36"
                     },
                     {
-                        "VarCharValue": "4.59"
+                        "VarCharValue": "201.36"
                     },
                     {
-                        "VarCharValue": "6594000"
+                        "VarCharValue": "27,317,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-16"
+                        "VarCharValue": "Mar 26, 2025"
                     },
                     {
-                        "VarCharValue": "4.572"
+                        "VarCharValue": "205.84"
                     },
                     {
-                        "VarCharValue": "4.65"
+                        "VarCharValue": "206.01"
                     },
                     {
-                        "VarCharValue": "4.538"
+                        "VarCharValue": "199.93"
                     },
                     {
-                        "VarCharValue": "4.564"
+                        "VarCharValue": "201.13"
                     },
                     {
-                        "VarCharValue": "4.564"
+                        "VarCharValue": "201.13"
                     },
                     {
-                        "VarCharValue": "5848500"
+                        "VarCharValue": "32,855,300"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-17"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.648"
+                        "VarCharValue": "Mar 25, 2025"
                     },
                     {
-                        "VarCharValue": "4.686"
+                        "VarCharValue": "203.60"
                     },
                     {
-                        "VarCharValue": "4.528"
+                        "VarCharValue": "206.21"
                     },
                     {
-                        "VarCharValue": "4.562"
+                        "VarCharValue": "203.22"
                     },
                     {
-                        "VarCharValue": "4.562"
+                        "VarCharValue": "205.71"
                     },
                     {
-                        "VarCharValue": "4613000"
+                        "VarCharValue": "205.71"
+                    },
+                    {
+                        "VarCharValue": "31,171,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-18"
+                        "VarCharValue": "Mar 24, 2025"
                     },
                     {
-                        "VarCharValue": "4.638"
+                        "VarCharValue": "200.00"
                     },
                     {
-                        "VarCharValue": "4.638"
+                        "VarCharValue": "203.64"
                     },
                     {
-                        "VarCharValue": "4.502"
+                        "VarCharValue": "199.95"
                     },
                     {
-                        "VarCharValue": "4.592"
+                        "VarCharValue": "203.26"
                     },
                     {
-                        "VarCharValue": "4.592"
+                        "VarCharValue": "203.26"
                     },
                     {
-                        "VarCharValue": "3439500"
+                        "VarCharValue": "41,625,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-21"
+                        "VarCharValue": "Mar 21, 2025"
                     },
                     {
-                        "VarCharValue": "4.61"
+                        "VarCharValue": "192.90"
                     },
                     {
-                        "VarCharValue": "4.61"
+                        "VarCharValue": "196.99"
                     },
                     {
-                        "VarCharValue": "4.508"
+                        "VarCharValue": "192.52"
                     },
                     {
-                        "VarCharValue": "4.546"
+                        "VarCharValue": "196.21"
                     },
                     {
-                        "VarCharValue": "4.546"
+                        "VarCharValue": "196.21"
                     },
                     {
-                        "VarCharValue": "2058500"
+                        "VarCharValue": "60,056,900"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-22"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.546"
+                        "VarCharValue": "Mar 20, 2025"
                     },
                     {
-                        "VarCharValue": "4.572"
+                        "VarCharValue": "193.07"
                     },
                     {
-                        "VarCharValue": "4.4"
+                        "VarCharValue": "199.32"
                     },
                     {
-                        "VarCharValue": "4.438"
+                        "VarCharValue": "192.30"
                     },
                     {
-                        "VarCharValue": "4.438"
+                        "VarCharValue": "194.95"
                     },
                     {
-                        "VarCharValue": "2914500"
+                        "VarCharValue": "194.95"
+                    },
+                    {
+                        "VarCharValue": "38,921,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-23"
+                        "VarCharValue": "Mar 19, 2025"
                     },
                     {
-                        "VarCharValue": "4.422"
+                        "VarCharValue": "193.38"
                     },
                     {
-                        "VarCharValue": "4.454"
+                        "VarCharValue": "195.97"
                     },
                     {
-                        "VarCharValue": "4.354"
+                        "VarCharValue": "191.96"
                     },
                     {
-                        "VarCharValue": "4.442"
+                        "VarCharValue": "195.54"
                     },
                     {
-                        "VarCharValue": "4.442"
+                        "VarCharValue": "195.54"
                     },
                     {
-                        "VarCharValue": "2114000"
+                        "VarCharValue": "39,442,900"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-24"
+                        "VarCharValue": "Mar 18, 2025"
                     },
                     {
-                        "VarCharValue": "4.428"
+                        "VarCharValue": "192.52"
                     },
                     {
-                        "VarCharValue": "4.476"
+                        "VarCharValue": "194.00"
                     },
                     {
-                        "VarCharValue": "4.396"
+                        "VarCharValue": "189.38"
                     },
                     {
-                        "VarCharValue": "4.466"
+                        "VarCharValue": "192.82"
                     },
                     {
-                        "VarCharValue": "4.466"
+                        "VarCharValue": "192.82"
                     },
                     {
-                        "VarCharValue": "2311000"
+                        "VarCharValue": "40,414,900"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-25"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.486"
+                        "VarCharValue": "Mar 17, 2025"
                     },
                     {
-                        "VarCharValue": "4.6"
+                        "VarCharValue": "198.77"
                     },
                     {
-                        "VarCharValue": "4.48"
+                        "VarCharValue": "199.00"
                     },
                     {
-                        "VarCharValue": "4.55"
+                        "VarCharValue": "194.32"
                     },
                     {
-                        "VarCharValue": "4.55"
+                        "VarCharValue": "195.74"
                     },
                     {
-                        "VarCharValue": "2840000"
+                        "VarCharValue": "195.74"
+                    },
+                    {
+                        "VarCharValue": "47,341,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-28"
+                        "VarCharValue": "Mar 14, 2025"
                     },
                     {
-                        "VarCharValue": "4.54"
+                        "VarCharValue": "197.41"
                     },
                     {
-                        "VarCharValue": "4.708"
+                        "VarCharValue": "198.65"
                     },
                     {
-                        "VarCharValue": "4.51"
+                        "VarCharValue": "195.32"
                     },
                     {
-                        "VarCharValue": "4.65"
+                        "VarCharValue": "197.95"
                     },
                     {
-                        "VarCharValue": "4.65"
+                        "VarCharValue": "197.95"
                     },
                     {
-                        "VarCharValue": "5290500"
+                        "VarCharValue": "38,096,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-03-29"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "4.66"
+                        "VarCharValue": "Mar 13, 2025"
                     },
                     {
-                        "VarCharValue": "4.8"
+                        "VarCharValue": "198.17"
                     },
                     {
-                        "VarCharValue": "4.642"
+                        "VarCharValue": "198.88"
                     },
                     {
-                        "VarCharValue": "4.784"
+                        "VarCharValue": "191.82"
                     },
                     {
-                        "VarCharValue": "4.784"
+                        "VarCharValue": "193.89"
                     },
                     {
-                        "VarCharValue": "3777000"
+                        "VarCharValue": "193.89"
+                    },
+                    {
+                        "VarCharValue": "41,270,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-30"
+                        "VarCharValue": "Mar 12, 2025"
                     },
                     {
-                        "VarCharValue": "4.822"
+                        "VarCharValue": "200.72"
                     },
                     {
-                        "VarCharValue": "4.898"
+                        "VarCharValue": "201.52"
                     },
                     {
-                        "VarCharValue": "4.602"
+                        "VarCharValue": "195.29"
                     },
                     {
-                        "VarCharValue": "4.742"
+                        "VarCharValue": "198.89"
                     },
                     {
-                        "VarCharValue": "4.742"
+                        "VarCharValue": "198.89"
                     },
                     {
-                        "VarCharValue": "6116500"
+                        "VarCharValue": "43,679,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-03-31"
+                        "VarCharValue": "Mar 11, 2025"
                     },
                     {
-                        "VarCharValue": "5.31"
+                        "VarCharValue": "193.90"
                     },
                     {
-                        "VarCharValue": "5.742"
+                        "VarCharValue": "200.18"
                     },
                     {
-                        "VarCharValue": "5.3"
+                        "VarCharValue": "193.40"
                     },
                     {
-                        "VarCharValue": "5.55"
+                        "VarCharValue": "196.59"
                     },
                     {
-                        "VarCharValue": "5.55"
+                        "VarCharValue": "196.59"
                     },
                     {
-                        "VarCharValue": "57589000"
+                        "VarCharValue": "54,002,900"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-04-01"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.49"
+                        "VarCharValue": "Mar 10, 2025"
                     },
                     {
-                        "VarCharValue": "5.636"
+                        "VarCharValue": "195.60"
                     },
                     {
-                        "VarCharValue": "5.314"
+                        "VarCharValue": "196.73"
                     },
                     {
-                        "VarCharValue": "5.332"
+                        "VarCharValue": "190.85"
                     },
                     {
-                        "VarCharValue": "5.332"
+                        "VarCharValue": "194.54"
                     },
                     {
-                        "VarCharValue": "14324000"
+                        "VarCharValue": "194.54"
+                    },
+                    {
+                        "VarCharValue": "62,350,900"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-04"
+                        "VarCharValue": "Mar 7, 2025"
                     },
                     {
-                        "VarCharValue": "5.366"
+                        "VarCharValue": "199.49"
                     },
                     {
-                        "VarCharValue": "5.4"
+                        "VarCharValue": "202.27"
                     },
                     {
-                        "VarCharValue": "5.046"
+                        "VarCharValue": "192.53"
                     },
                     {
-                        "VarCharValue": "5.166"
+                        "VarCharValue": "199.25"
                     },
                     {
-                        "VarCharValue": "5.166"
+                        "VarCharValue": "199.25"
                     },
                     {
-                        "VarCharValue": "13046500"
+                        "VarCharValue": "59,802,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-05"
+                        "VarCharValue": "Mar 6, 2025"
                     },
                     {
-                        "VarCharValue": "5.18"
+                        "VarCharValue": "204.40"
                     },
                     {
-                        "VarCharValue": "5.4"
+                        "VarCharValue": "205.77"
                     },
                     {
-                        "VarCharValue": "5.138"
+                        "VarCharValue": "198.30"
                     },
                     {
-                        "VarCharValue": "5.34"
+                        "VarCharValue": "200.70"
                     },
                     {
-                        "VarCharValue": "5.34"
+                        "VarCharValue": "200.70"
                     },
                     {
-                        "VarCharValue": "15904500"
+                        "VarCharValue": "49,863,800"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-04-06"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.398"
+                        "VarCharValue": "Mar 5, 2025"
                     },
                     {
-                        "VarCharValue": "5.402"
+                        "VarCharValue": "204.80"
                     },
                     {
-                        "VarCharValue": "5.16"
+                        "VarCharValue": "209.98"
                     },
                     {
-                        "VarCharValue": "5.298"
+                        "VarCharValue": "203.26"
                     },
                     {
-                        "VarCharValue": "5.298"
+                        "VarCharValue": "208.36"
                     },
                     {
-                        "VarCharValue": "6441500"
+                        "VarCharValue": "208.36"
+                    },
+                    {
+                        "VarCharValue": "38,610,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-07"
+                        "VarCharValue": "Mar 4, 2025"
                     },
                     {
-                        "VarCharValue": "5.37"
+                        "VarCharValue": "200.11"
                     },
                     {
-                        "VarCharValue": "5.588"
+                        "VarCharValue": "206.80"
                     },
                     {
-                        "VarCharValue": "5.29"
+                        "VarCharValue": "197.43"
                     },
                     {
-                        "VarCharValue": "5.448"
+                        "VarCharValue": "203.80"
                     },
                     {
-                        "VarCharValue": "5.448"
+                        "VarCharValue": "203.80"
                     },
                     {
-                        "VarCharValue": "14051500"
+                        "VarCharValue": "60,853,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-08"
+                        "VarCharValue": "Mar 3, 2025"
                     },
                     {
-                        "VarCharValue": "5.516"
+                        "VarCharValue": "213.35"
                     },
                     {
-                        "VarCharValue": "5.52"
+                        "VarCharValue": "214.01"
                     },
                     {
-                        "VarCharValue": "5.272"
+                        "VarCharValue": "202.55"
                     },
                     {
-                        "VarCharValue": "5.298"
+                        "VarCharValue": "205.02"
                     },
                     {
-                        "VarCharValue": "5.298"
+                        "VarCharValue": "205.02"
                     },
                     {
-                        "VarCharValue": "9732000"
+                        "VarCharValue": "42,948,400"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-04-11"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.294"
+                        "VarCharValue": "Feb 28, 2025"
                     },
                     {
-                        "VarCharValue": "5.306"
+                        "VarCharValue": "208.65"
                     },
                     {
-                        "VarCharValue": "5.004"
+                        "VarCharValue": "212.62"
                     },
                     {
-                        "VarCharValue": "5.054"
+                        "VarCharValue": "206.99"
                     },
                     {
-                        "VarCharValue": "5.054"
+                        "VarCharValue": "212.28"
                     },
                     {
-                        "VarCharValue": "6847000"
+                        "VarCharValue": "212.28"
+                    },
+                    {
+                        "VarCharValue": "51,771,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-12"
+                        "VarCharValue": "Feb 27, 2025"
                     },
                     {
-                        "VarCharValue": "5.016"
+                        "VarCharValue": "218.35"
                     },
                     {
-                        "VarCharValue": "5.042"
+                        "VarCharValue": "219.97"
                     },
                     {
-                        "VarCharValue": "4.86"
+                        "VarCharValue": "208.37"
                     },
                     {
-                        "VarCharValue": "4.93"
+                        "VarCharValue": "208.74"
                     },
                     {
-                        "VarCharValue": "4.93"
+                        "VarCharValue": "208.74"
                     },
                     {
-                        "VarCharValue": "6787000"
+                        "VarCharValue": "40,548,600"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-13"
+                        "VarCharValue": "Feb 26, 2025"
                     },
                     {
-                        "VarCharValue": "5.026"
+                        "VarCharValue": "214.94"
                     },
                     {
-                        "VarCharValue": "5.138"
+                        "VarCharValue": "218.16"
                     },
                     {
-                        "VarCharValue": "4.962"
+                        "VarCharValue": "213.09"
                     },
                     {
-                        "VarCharValue": "4.986"
+                        "VarCharValue": "214.35"
                     },
                     {
-                        "VarCharValue": "4.986"
+                        "VarCharValue": "214.35"
                     },
                     {
-                        "VarCharValue": "6057500"
+                        "VarCharValue": "39,120,600"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-14"
+                        "VarCharValue": "Feb 25, 2025"
                     },
                     {
-                        "VarCharValue": "4.974"
+                        "VarCharValue": "211.63"
                     },
                     {
-                        "VarCharValue": "5.056"
+                        "VarCharValue": "213.34"
                     },
                     {
-                        "VarCharValue": "4.84"
+                        "VarCharValue": "204.16"
                     },
                     {
-                        "VarCharValue": "5.028"
+                        "VarCharValue": "212.80"
                     },
                     {
-                        "VarCharValue": "5.028"
+                        "VarCharValue": "212.80"
                     },
                     {
-                        "VarCharValue": "4917000"
+                        "VarCharValue": "58,958,000"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-15"
+                        "VarCharValue": "Feb 24, 2025"
                     },
                     {
-                        "VarCharValue": "5.13"
+                        "VarCharValue": "217.45"
                     },
                     {
-                        "VarCharValue": "5.236"
+                        "VarCharValue": "217.72"
                     },
                     {
-                        "VarCharValue": "5.082"
+                        "VarCharValue": "212.42"
                     },
                     {
-                        "VarCharValue": "5.116"
+                        "VarCharValue": "212.71"
                     },
                     {
-                        "VarCharValue": "5.116"
+                        "VarCharValue": "212.71"
                     },
                     {
-                        "VarCharValue": "4717500"
+                        "VarCharValue": "42,387,600"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-04-18"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.026"
+                        "VarCharValue": "Feb 21, 2025"
                     },
                     {
-                        "VarCharValue": "5.124"
+                        "VarCharValue": "223.28"
                     },
                     {
-                        "VarCharValue": "4.872"
+                        "VarCharValue": "223.31"
                     },
                     {
-                        "VarCharValue": "5.006"
+                        "VarCharValue": "214.74"
                     },
                     {
-                        "VarCharValue": "5.006"
+                        "VarCharValue": "216.58"
                     },
                     {
-                        "VarCharValue": "5169500"
+                        "VarCharValue": "216.58"
+                    },
+                    {
+                        "VarCharValue": "55,323,900"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-19"
+                        "VarCharValue": "Feb 20, 2025"
                     },
                     {
-                        "VarCharValue": "5.052"
+                        "VarCharValue": "224.78"
                     },
                     {
-                        "VarCharValue": "5.052"
+                        "VarCharValue": "225.13"
                     },
                     {
-                        "VarCharValue": "4.93"
+                        "VarCharValue": "221.81"
                     },
                     {
-                        "VarCharValue": "5.032"
+                        "VarCharValue": "222.88"
                     },
                     {
-                        "VarCharValue": "5.032"
+                        "VarCharValue": "222.88"
                     },
                     {
-                        "VarCharValue": "2743500"
+                        "VarCharValue": "30,001,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-20"
+                        "VarCharValue": "Feb 19, 2025"
                     },
                     {
-                        "VarCharValue": "5.14"
+                        "VarCharValue": "225.52"
                     },
                     {
-                        "VarCharValue": "5.218"
+                        "VarCharValue": "226.83"
                     },
                     {
-                        "VarCharValue": "5.06"
+                        "VarCharValue": "223.71"
                     },
                     {
-                        "VarCharValue": "5.15"
+                        "VarCharValue": "226.63"
                     },
                     {
-                        "VarCharValue": "5.15"
+                        "VarCharValue": "226.63"
                     },
                     {
-                        "VarCharValue": "4186000"
+                        "VarCharValue": "28,566,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-04-21"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.17"
+                        "VarCharValue": "Feb 18, 2025"
                     },
                     {
-                        "VarCharValue": "5.396"
+                        "VarCharValue": "228.82"
                     },
                     {
-                        "VarCharValue": "5.118"
+                        "VarCharValue": "229.30"
                     },
                     {
-                        "VarCharValue": "5.348"
+                        "VarCharValue": "223.72"
                     },
                     {
-                        "VarCharValue": "5.348"
+                        "VarCharValue": "226.65"
                     },
                     {
-                        "VarCharValue": "6930500"
+                        "VarCharValue": "226.65"
+                    },
+                    {
+                        "VarCharValue": "42,975,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-25"
+                        "VarCharValue": "Feb 14, 2025"
                     },
                     {
-                        "VarCharValue": "5.34"
+                        "VarCharValue": "229.20"
                     },
                     {
-                        "VarCharValue": "5.346"
+                        "VarCharValue": "229.89"
                     },
                     {
-                        "VarCharValue": "5.194"
+                        "VarCharValue": "227.23"
                     },
                     {
-                        "VarCharValue": "5.278"
+                        "VarCharValue": "228.68"
                     },
                     {
-                        "VarCharValue": "5.278"
+                        "VarCharValue": "228.68"
                     },
                     {
-                        "VarCharValue": "4004500"
+                        "VarCharValue": "27,031,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-26"
+                        "VarCharValue": "Feb 13, 2025"
                     },
                     {
-                        "VarCharValue": "5.332"
+                        "VarCharValue": "228.85"
                     },
                     {
-                        "VarCharValue": "5.45"
+                        "VarCharValue": "230.42"
                     },
                     {
-                        "VarCharValue": "5.262"
+                        "VarCharValue": "227.52"
                     },
                     {
-                        "VarCharValue": "5.386"
+                        "VarCharValue": "230.37"
                     },
                     {
-                        "VarCharValue": "5.386"
+                        "VarCharValue": "230.37"
                     },
                     {
-                        "VarCharValue": "7000000"
+                        "VarCharValue": "31,346,500"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-04-27"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.386"
+                        "VarCharValue": "Feb 12, 2025"
                     },
                     {
-                        "VarCharValue": "5.472"
+                        "VarCharValue": "230.46"
                     },
                     {
-                        "VarCharValue": "5.326"
+                        "VarCharValue": "231.18"
                     },
                     {
-                        "VarCharValue": "5.416"
+                        "VarCharValue": "228.16"
                     },
                     {
-                        "VarCharValue": "5.416"
+                        "VarCharValue": "228.93"
                     },
                     {
-                        "VarCharValue": "4984500"
+                        "VarCharValue": "228.93"
+                    },
+                    {
+                        "VarCharValue": "32,285,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-28"
+                        "VarCharValue": "Feb 11, 2025"
                     },
                     {
-                        "VarCharValue": "5.414"
+                        "VarCharValue": "231.92"
                     },
                     {
-                        "VarCharValue": "5.538"
+                        "VarCharValue": "233.44"
                     },
                     {
-                        "VarCharValue": "5.344"
+                        "VarCharValue": "230.13"
                     },
                     {
-                        "VarCharValue": "5.532"
+                        "VarCharValue": "232.76"
                     },
                     {
-                        "VarCharValue": "5.532"
+                        "VarCharValue": "232.76"
                     },
                     {
-                        "VarCharValue": "8000000"
+                        "VarCharValue": "23,713,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-04-29"
+                        "VarCharValue": "Feb 10, 2025"
                     },
                     {
-                        "VarCharValue": "5.538"
+                        "VarCharValue": "230.55"
                     },
                     {
-                        "VarCharValue": "5.574"
+                        "VarCharValue": "233.92"
                     },
                     {
-                        "VarCharValue": "5.484"
+                        "VarCharValue": "229.20"
                     },
                     {
-                        "VarCharValue": "5.52"
+                        "VarCharValue": "233.14"
                     },
                     {
-                        "VarCharValue": "5.52"
+                        "VarCharValue": "233.14"
                     },
                     {
-                        "VarCharValue": "3630000"
+                        "VarCharValue": "35,419,900"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-02"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.52"
+                        "VarCharValue": "Feb 7, 2025"
                     },
                     {
-                        "VarCharValue": "5.56"
+                        "VarCharValue": "232.50"
                     },
                     {
-                        "VarCharValue": "5.412"
+                        "VarCharValue": "234.81"
                     },
                     {
-                        "VarCharValue": "5.49"
+                        "VarCharValue": "228.06"
                     },
                     {
-                        "VarCharValue": "5.49"
+                        "VarCharValue": "229.15"
                     },
                     {
-                        "VarCharValue": "3923000"
+                        "VarCharValue": "229.15"
+                    },
+                    {
+                        "VarCharValue": "77,539,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-03"
+                        "VarCharValue": "Feb 6, 2025"
                     },
                     {
-                        "VarCharValue": "5.476"
+                        "VarCharValue": "238.01"
                     },
                     {
-                        "VarCharValue": "5.478"
+                        "VarCharValue": "239.66"
                     },
                     {
-                        "VarCharValue": "5.3"
+                        "VarCharValue": "236.01"
                     },
                     {
-                        "VarCharValue": "5.374"
+                        "VarCharValue": "238.83"
                     },
                     {
-                        "VarCharValue": "5.374"
+                        "VarCharValue": "238.83"
                     },
                     {
-                        "VarCharValue": "4569500"
+                        "VarCharValue": "60,897,100"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-04"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.356"
+                        "VarCharValue": "Feb 5, 2025"
                     },
                     {
-                        "VarCharValue": "5.4"
+                        "VarCharValue": "237.02"
                     },
                     {
-                        "VarCharValue": "5.15"
+                        "VarCharValue": "238.32"
                     },
                     {
-                        "VarCharValue": "5.338"
+                        "VarCharValue": "235.20"
                     },
                     {
-                        "VarCharValue": "5.338"
+                        "VarCharValue": "236.17"
                     },
                     {
-                        "VarCharValue": "5222500"
+                        "VarCharValue": "236.17"
+                    },
+                    {
+                        "VarCharValue": "38,727,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-05"
+                        "VarCharValue": "Feb 4, 2025"
                     },
                     {
-                        "VarCharValue": "5.44"
+                        "VarCharValue": "239.01"
                     },
                     {
-                        "VarCharValue": "5.488"
+                        "VarCharValue": "242.52"
                     },
                     {
-                        "VarCharValue": "5.234"
+                        "VarCharValue": "238.03"
                     },
                     {
-                        "VarCharValue": "5.288"
+                        "VarCharValue": "242.06"
                     },
                     {
-                        "VarCharValue": "5.288"
+                        "VarCharValue": "242.06"
                     },
                     {
-                        "VarCharValue": "6092500"
+                        "VarCharValue": "29,713,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-06"
+                        "VarCharValue": "Feb 3, 2025"
                     },
                     {
-                        "VarCharValue": "5.38"
+                        "VarCharValue": "234.06"
                     },
                     {
-                        "VarCharValue": "5.54"
+                        "VarCharValue": "239.25"
                     },
                     {
-                        "VarCharValue": "5.324"
+                        "VarCharValue": "232.90"
                     },
                     {
-                        "VarCharValue": "5.424"
+                        "VarCharValue": "237.42"
                     },
                     {
-                        "VarCharValue": "5.424"
+                        "VarCharValue": "237.42"
                     },
                     {
-                        "VarCharValue": "4908500"
+                        "VarCharValue": "37,285,900"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-09"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.4"
+                        "VarCharValue": "Jan 31, 2025"
                     },
                     {
-                        "VarCharValue": "5.6"
+                        "VarCharValue": "236.50"
                     },
                     {
-                        "VarCharValue": "5.37"
+                        "VarCharValue": "240.29"
                     },
                     {
-                        "VarCharValue": "5.582"
+                        "VarCharValue": "236.41"
                     },
                     {
-                        "VarCharValue": "5.582"
+                        "VarCharValue": "237.68"
                     },
                     {
-                        "VarCharValue": "4582000"
+                        "VarCharValue": "237.68"
+                    },
+                    {
+                        "VarCharValue": "36,162,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-10"
+                        "VarCharValue": "Jan 30, 2025"
                     },
                     {
-                        "VarCharValue": "5.648"
+                        "VarCharValue": "237.14"
                     },
                     {
-                        "VarCharValue": "5.79"
+                        "VarCharValue": "237.95"
                     },
                     {
-                        "VarCharValue": "5.582"
+                        "VarCharValue": "232.22"
                     },
                     {
-                        "VarCharValue": "5.666"
+                        "VarCharValue": "234.64"
                     },
                     {
-                        "VarCharValue": "5.666"
+                        "VarCharValue": "234.64"
                     },
                     {
-                        "VarCharValue": "7676500"
+                        "VarCharValue": "32,020,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-11"
+                        "VarCharValue": "Jan 29, 2025"
                     },
                     {
-                        "VarCharValue": "5.64"
+                        "VarCharValue": "239.02"
                     },
                     {
-                        "VarCharValue": "5.66"
+                        "VarCharValue": "240.39"
                     },
                     {
-                        "VarCharValue": "5.384"
+                        "VarCharValue": "236.15"
                     },
                     {
-                        "VarCharValue": "5.414"
+                        "VarCharValue": "237.07"
                     },
                     {
-                        "VarCharValue": "5.414"
+                        "VarCharValue": "237.07"
                     },
                     {
-                        "VarCharValue": "4812500"
+                        "VarCharValue": "26,091,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-12"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.414"
+                        "VarCharValue": "Jan 28, 2025"
                     },
                     {
-                        "VarCharValue": "5.548"
+                        "VarCharValue": "234.29"
                     },
                     {
-                        "VarCharValue": "5.33"
+                        "VarCharValue": "241.77"
                     },
                     {
-                        "VarCharValue": "5.534"
+                        "VarCharValue": "233.98"
                     },
                     {
-                        "VarCharValue": "5.534"
+                        "VarCharValue": "238.15"
                     },
                     {
-                        "VarCharValue": "3140000"
+                        "VarCharValue": "238.15"
+                    },
+                    {
+                        "VarCharValue": "41,587,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-13"
+                        "VarCharValue": "Jan 27, 2025"
                     },
                     {
-                        "VarCharValue": "5.6"
+                        "VarCharValue": "226.21"
                     },
                     {
-                        "VarCharValue": "5.638"
+                        "VarCharValue": "235.61"
                     },
                     {
-                        "VarCharValue": "5.46"
+                        "VarCharValue": "225.86"
                     },
                     {
-                        "VarCharValue": "5.51"
+                        "VarCharValue": "235.42"
                     },
                     {
-                        "VarCharValue": "5.51"
+                        "VarCharValue": "235.42"
                     },
                     {
-                        "VarCharValue": "3307500"
+                        "VarCharValue": "49,428,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-16"
+                        "VarCharValue": "Jan 24, 2025"
                     },
                     {
-                        "VarCharValue": "5.598"
+                        "VarCharValue": "234.50"
                     },
                     {
-                        "VarCharValue": "5.598"
+                        "VarCharValue": "236.40"
                     },
                     {
-                        "VarCharValue": "5.31"
+                        "VarCharValue": "232.93"
                     },
                     {
-                        "VarCharValue": "5.32"
+                        "VarCharValue": "234.85"
                     },
                     {
-                        "VarCharValue": "5.32"
+                        "VarCharValue": "234.85"
                     },
                     {
-                        "VarCharValue": "3778500"
+                        "VarCharValue": "25,890,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-17"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.4"
+                        "VarCharValue": "Jan 23, 2025"
                     },
                     {
-                        "VarCharValue": "5.4"
+                        "VarCharValue": "234.10"
                     },
                     {
-                        "VarCharValue": "5.144"
+                        "VarCharValue": "235.52"
                     },
                     {
-                        "VarCharValue": "5.192"
+                        "VarCharValue": "231.51"
                     },
                     {
-                        "VarCharValue": "5.192"
+                        "VarCharValue": "235.42"
                     },
                     {
-                        "VarCharValue": "6171000"
+                        "VarCharValue": "235.42"
+                    },
+                    {
+                        "VarCharValue": "26,404,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-18"
+                        "VarCharValue": "Jan 22, 2025"
                     },
                     {
-                        "VarCharValue": "5.22"
+                        "VarCharValue": "232.02"
                     },
                     {
-                        "VarCharValue": "5.294"
+                        "VarCharValue": "235.44"
                     },
                     {
-                        "VarCharValue": "5.104"
+                        "VarCharValue": "231.19"
                     },
                     {
-                        "VarCharValue": "5.27"
+                        "VarCharValue": "235.01"
                     },
                     {
-                        "VarCharValue": "5.27"
+                        "VarCharValue": "235.01"
                     },
                     {
-                        "VarCharValue": "3647500"
+                        "VarCharValue": "41,448,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-19"
+                        "VarCharValue": "Jan 21, 2025"
                     },
                     {
-                        "VarCharValue": "5.406"
+                        "VarCharValue": "228.90"
                     },
                     {
-                        "VarCharValue": "5.688"
+                        "VarCharValue": "231.78"
                     },
                     {
-                        "VarCharValue": "5.32"
+                        "VarCharValue": "226.94"
                     },
                     {
-                        "VarCharValue": "5.64"
+                        "VarCharValue": "230.71"
                     },
                     {
-                        "VarCharValue": "5.64"
+                        "VarCharValue": "230.71"
                     },
                     {
-                        "VarCharValue": "13275500"
+                        "VarCharValue": "39,951,500"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-20"
+                        "VarCharValue": "Jan 17, 2025"
                     },
                     {
-                        "VarCharValue": "5.652"
+                        "VarCharValue": "225.84"
                     },
                     {
-                        "VarCharValue": "5.656"
+                        "VarCharValue": "226.51"
                     },
                     {
-                        "VarCharValue": "5.47"
+                        "VarCharValue": "223.08"
                     },
                     {
-                        "VarCharValue": "5.594"
+                        "VarCharValue": "225.94"
                     },
                     {
-                        "VarCharValue": "5.594"
+                        "VarCharValue": "225.94"
                     },
                     {
-                        "VarCharValue": "4212500"
+                        "VarCharValue": "42,370,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-23"
+                        "VarCharValue": "Jan 16, 2025"
                     },
                     {
-                        "VarCharValue": "5.524"
+                        "VarCharValue": "224.42"
                     },
                     {
-                        "VarCharValue": "5.524"
+                        "VarCharValue": "224.65"
                     },
                     {
-                        "VarCharValue": "5.324"
+                        "VarCharValue": "220.31"
                     },
                     {
-                        "VarCharValue": "5.364"
+                        "VarCharValue": "220.66"
                     },
                     {
-                        "VarCharValue": "5.364"
+                        "VarCharValue": "220.66"
                     },
                     {
-                        "VarCharValue": "4318000"
+                        "VarCharValue": "24,757,300"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-24"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.404"
+                        "VarCharValue": "Jan 15, 2025"
                     },
                     {
-                        "VarCharValue": "5.5"
+                        "VarCharValue": "222.83"
                     },
                     {
-                        "VarCharValue": "5.32"
+                        "VarCharValue": "223.57"
                     },
                     {
-                        "VarCharValue": "5.344"
+                        "VarCharValue": "220.75"
                     },
                     {
-                        "VarCharValue": "5.344"
+                        "VarCharValue": "223.35"
                     },
                     {
-                        "VarCharValue": "3068500"
+                        "VarCharValue": "223.35"
+                    },
+                    {
+                        "VarCharValue": "31,291,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-25"
+                        "VarCharValue": "Jan 14, 2025"
                     },
                     {
-                        "VarCharValue": "5.38"
+                        "VarCharValue": "220.44"
                     },
                     {
-                        "VarCharValue": "5.802"
+                        "VarCharValue": "221.82"
                     },
                     {
-                        "VarCharValue": "5.234"
+                        "VarCharValue": "216.20"
                     },
                     {
-                        "VarCharValue": "5.796"
+                        "VarCharValue": "217.76"
                     },
                     {
-                        "VarCharValue": "5.796"
+                        "VarCharValue": "217.76"
                     },
                     {
-                        "VarCharValue": "23465500"
+                        "VarCharValue": "24,711,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-26"
+                        "VarCharValue": "Jan 13, 2025"
                     },
                     {
-                        "VarCharValue": "5.764"
+                        "VarCharValue": "218.06"
                     },
                     {
-                        "VarCharValue": "5.952"
+                        "VarCharValue": "219.40"
                     },
                     {
-                        "VarCharValue": "5.62"
+                        "VarCharValue": "216.47"
                     },
                     {
-                        "VarCharValue": "5.896"
+                        "VarCharValue": "218.46"
                     },
                     {
-                        "VarCharValue": "5.896"
+                        "VarCharValue": "218.46"
                     },
                     {
-                        "VarCharValue": "16684500"
+                        "VarCharValue": "27,262,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-05-27"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.908"
+                        "VarCharValue": "Jan 10, 2025"
                     },
                     {
-                        "VarCharValue": "5.934"
+                        "VarCharValue": "221.46"
                     },
                     {
-                        "VarCharValue": "5.764"
+                        "VarCharValue": "221.71"
                     },
                     {
-                        "VarCharValue": "5.91"
+                        "VarCharValue": "216.50"
                     },
                     {
-                        "VarCharValue": "5.91"
+                        "VarCharValue": "218.94"
                     },
                     {
-                        "VarCharValue": "8435500"
+                        "VarCharValue": "218.94"
+                    },
+                    {
+                        "VarCharValue": "36,811,500"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-05-31"
+                        "VarCharValue": "Jan 8, 2025"
                     },
                     {
-                        "VarCharValue": "5.938"
+                        "VarCharValue": "223.19"
                     },
                     {
-                        "VarCharValue": "6.056"
+                        "VarCharValue": "223.52"
                     },
                     {
-                        "VarCharValue": "5.91"
+                        "VarCharValue": "220.20"
                     },
                     {
-                        "VarCharValue": "6.028"
+                        "VarCharValue": "222.13"
                     },
                     {
-                        "VarCharValue": "6.028"
+                        "VarCharValue": "222.13"
                     },
                     {
-                        "VarCharValue": "16452500"
+                        "VarCharValue": "25,033,300"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-01"
+                        "VarCharValue": "Jan 7, 2025"
                     },
                     {
-                        "VarCharValue": "6.0"
+                        "VarCharValue": "227.90"
                     },
                     {
-                        "VarCharValue": "6.02"
+                        "VarCharValue": "228.38"
                     },
                     {
-                        "VarCharValue": "5.676"
+                        "VarCharValue": "221.46"
                     },
                     {
-                        "VarCharValue": "5.704"
+                        "VarCharValue": "222.11"
                     },
                     {
-                        "VarCharValue": "5.704"
+                        "VarCharValue": "222.11"
                     },
                     {
-                        "VarCharValue": "7649500"
+                        "VarCharValue": "28,084,200"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-02"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.704"
+                        "VarCharValue": "Jan 6, 2025"
                     },
                     {
-                        "VarCharValue": "5.864"
+                        "VarCharValue": "226.78"
                     },
                     {
-                        "VarCharValue": "5.702"
+                        "VarCharValue": "228.84"
                     },
                     {
-                        "VarCharValue": "5.752"
+                        "VarCharValue": "224.84"
                     },
                     {
-                        "VarCharValue": "5.752"
+                        "VarCharValue": "227.61"
                     },
                     {
-                        "VarCharValue": "4931500"
+                        "VarCharValue": "227.61"
+                    },
+                    {
+                        "VarCharValue": "31,849,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-03"
+                        "VarCharValue": "Jan 3, 2025"
                     },
                     {
-                        "VarCharValue": "5.99"
+                        "VarCharValue": "222.51"
                     },
                     {
-                        "VarCharValue": "6.3"
+                        "VarCharValue": "225.36"
                     },
                     {
-                        "VarCharValue": "5.9"
+                        "VarCharValue": "221.62"
                     },
                     {
-                        "VarCharValue": "6.026"
+                        "VarCharValue": "224.19"
                     },
                     {
-                        "VarCharValue": "6.026"
+                        "VarCharValue": "224.19"
                     },
                     {
-                        "VarCharValue": "31046000"
+                        "VarCharValue": "27,515,600"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-06"
+                        "VarCharValue": "Jan 2, 2025"
                     },
                     {
-                        "VarCharValue": "6.02"
+                        "VarCharValue": "222.03"
                     },
                     {
-                        "VarCharValue": "6.026"
+                        "VarCharValue": "225.15"
                     },
                     {
-                        "VarCharValue": "5.652"
+                        "VarCharValue": "218.19"
                     },
                     {
-                        "VarCharValue": "5.74"
+                        "VarCharValue": "220.22"
                     },
                     {
-                        "VarCharValue": "5.74"
+                        "VarCharValue": "220.22"
                     },
                     {
-                        "VarCharValue": "11655500"
+                        "VarCharValue": "33,956,600"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-07"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.788"
+                        "VarCharValue": "Dec 31, 2024"
                     },
                     {
-                        "VarCharValue": "5.878"
+                        "VarCharValue": "222.97"
                     },
                     {
-                        "VarCharValue": "5.652"
+                        "VarCharValue": "223.23"
                     },
                     {
-                        "VarCharValue": "5.674"
+                        "VarCharValue": "218.94"
                     },
                     {
-                        "VarCharValue": "5.674"
+                        "VarCharValue": "219.39"
                     },
                     {
-                        "VarCharValue": "6110500"
+                        "VarCharValue": "219.39"
+                    },
+                    {
+                        "VarCharValue": "24,819,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-08"
+                        "VarCharValue": "Dec 30, 2024"
                     },
                     {
-                        "VarCharValue": "5.688"
+                        "VarCharValue": "220.06"
                     },
                     {
-                        "VarCharValue": "5.72"
+                        "VarCharValue": "223.00"
                     },
                     {
-                        "VarCharValue": "5.404"
+                        "VarCharValue": "218.43"
                     },
                     {
-                        "VarCharValue": "5.424"
+                        "VarCharValue": "221.30"
                     },
                     {
-                        "VarCharValue": "5.424"
+                        "VarCharValue": "221.30"
                     },
                     {
-                        "VarCharValue": "8479500"
+                        "VarCharValue": "28,321,200"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-09"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.486"
+                        "VarCharValue": "Dec 27, 2024"
                     },
                     {
-                        "VarCharValue": "5.62"
+                        "VarCharValue": "225.60"
                     },
                     {
-                        "VarCharValue": "5.42"
+                        "VarCharValue": "226.03"
                     },
                     {
-                        "VarCharValue": "5.524"
+                        "VarCharValue": "220.90"
                     },
                     {
-                        "VarCharValue": "5.524"
+                        "VarCharValue": "223.75"
                     },
                     {
-                        "VarCharValue": "8016000"
+                        "VarCharValue": "223.75"
+                    },
+                    {
+                        "VarCharValue": "27,367,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-10"
+                        "VarCharValue": "Dec 26, 2024"
                     },
                     {
-                        "VarCharValue": "5.504"
+                        "VarCharValue": "228.50"
                     },
                     {
-                        "VarCharValue": "5.66"
+                        "VarCharValue": "228.50"
                     },
                     {
-                        "VarCharValue": "5.47"
+                        "VarCharValue": "226.67"
                     },
                     {
-                        "VarCharValue": "5.572"
+                        "VarCharValue": "227.05"
                     },
                     {
-                        "VarCharValue": "5.572"
+                        "VarCharValue": "227.05"
                     },
                     {
-                        "VarCharValue": "7833000"
+                        "VarCharValue": "16,146,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-13"
+                        "VarCharValue": "Dec 24, 2024"
                     },
                     {
-                        "VarCharValue": "5.614"
+                        "VarCharValue": "226.94"
                     },
                     {
-                        "VarCharValue": "5.776"
+                        "VarCharValue": "229.14"
                     },
                     {
-                        "VarCharValue": "5.576"
+                        "VarCharValue": "226.13"
                     },
                     {
-                        "VarCharValue": "5.686"
+                        "VarCharValue": "229.05"
                     },
                     {
-                        "VarCharValue": "5.686"
+                        "VarCharValue": "229.05"
                     },
                     {
-                        "VarCharValue": "8567000"
+                        "VarCharValue": "15,007,500"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-14"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.708"
+                        "VarCharValue": "Dec 23, 2024"
                     },
                     {
-                        "VarCharValue": "5.94"
+                        "VarCharValue": "225.01"
                     },
                     {
-                        "VarCharValue": "5.704"
+                        "VarCharValue": "226.88"
                     },
                     {
-                        "VarCharValue": "5.72"
+                        "VarCharValue": "223.90"
                     },
                     {
-                        "VarCharValue": "5.72"
+                        "VarCharValue": "225.06"
                     },
                     {
-                        "VarCharValue": "7867000"
+                        "VarCharValue": "225.06"
+                    },
+                    {
+                        "VarCharValue": "28,070,000"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-15"
+                        "VarCharValue": "Dec 20, 2024"
                     },
                     {
-                        "VarCharValue": "5.688"
+                        "VarCharValue": "219.84"
                     },
                     {
-                        "VarCharValue": "5.69"
+                        "VarCharValue": "226.21"
                     },
                     {
-                        "VarCharValue": "5.414"
+                        "VarCharValue": "218.73"
                     },
                     {
-                        "VarCharValue": "5.464"
+                        "VarCharValue": "224.92"
                     },
                     {
-                        "VarCharValue": "5.464"
+                        "VarCharValue": "224.92"
                     },
                     {
-                        "VarCharValue": "6725000"
+                        "VarCharValue": "88,279,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-16"
+                        "VarCharValue": "Dec 19, 2024"
                     },
                     {
-                        "VarCharValue": "5.534"
+                        "VarCharValue": "224.91"
                     },
                     {
-                        "VarCharValue": "5.6"
+                        "VarCharValue": "226.09"
                     },
                     {
-                        "VarCharValue": "5.148"
+                        "VarCharValue": "222.92"
                     },
                     {
-                        "VarCharValue": "5.3"
+                        "VarCharValue": "223.29"
                     },
                     {
-                        "VarCharValue": "5.3"
+                        "VarCharValue": "223.29"
                     },
                     {
-                        "VarCharValue": "9211000"
+                        "VarCharValue": "39,918,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-17"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.374"
+                        "VarCharValue": "Dec 18, 2024"
                     },
                     {
-                        "VarCharValue": "5.54"
+                        "VarCharValue": "230.77"
                     },
                     {
-                        "VarCharValue": "5.228"
+                        "VarCharValue": "231.40"
                     },
                     {
-                        "VarCharValue": "5.3"
+                        "VarCharValue": "220.11"
                     },
                     {
-                        "VarCharValue": "5.3"
+                        "VarCharValue": "220.52"
                     },
                     {
-                        "VarCharValue": "8570000"
+                        "VarCharValue": "220.52"
+                    },
+                    {
+                        "VarCharValue": "43,281,400"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-20"
+                        "VarCharValue": "Dec 17, 2024"
                     },
                     {
-                        "VarCharValue": "5.258"
+                        "VarCharValue": "232.39"
                     },
                     {
-                        "VarCharValue": "5.292"
+                        "VarCharValue": "232.73"
                     },
                     {
-                        "VarCharValue": "5.1"
+                        "VarCharValue": "227.85"
                     },
                     {
-                        "VarCharValue": "5.202"
+                        "VarCharValue": "231.15"
                     },
                     {
-                        "VarCharValue": "5.202"
+                        "VarCharValue": "231.15"
                     },
                     {
-                        "VarCharValue": "7689000"
+                        "VarCharValue": "35,948,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-21"
+                        "VarCharValue": "Dec 16, 2024"
                     },
                     {
-                        "VarCharValue": "5.248"
+                        "VarCharValue": "230.23"
                     },
                     {
-                        "VarCharValue": "5.546"
+                        "VarCharValue": "233.00"
                     },
                     {
-                        "VarCharValue": "5.2"
+                        "VarCharValue": "228.01"
                     },
                     {
-                        "VarCharValue": "5.506"
+                        "VarCharValue": "232.93"
                     },
                     {
-                        "VarCharValue": "5.506"
+                        "VarCharValue": "232.93"
                     },
                     {
-                        "VarCharValue": "7480000"
+                        "VarCharValue": "37,552,100"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-22"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.474"
+                        "VarCharValue": "Dec 13, 2024"
                     },
                     {
-                        "VarCharValue": "5.65"
+                        "VarCharValue": "228.40"
                     },
                     {
-                        "VarCharValue": "5.42"
+                        "VarCharValue": "230.20"
                     },
                     {
-                        "VarCharValue": "5.442"
+                        "VarCharValue": "225.86"
                     },
                     {
-                        "VarCharValue": "5.442"
+                        "VarCharValue": "227.46"
                     },
                     {
-                        "VarCharValue": "7378000"
+                        "VarCharValue": "227.46"
+                    },
+                    {
+                        "VarCharValue": "28,768,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-23"
+                        "VarCharValue": "Dec 12, 2024"
                     },
                     {
-                        "VarCharValue": "5.44"
+                        "VarCharValue": "229.83"
                     },
                     {
-                        "VarCharValue": "5.544"
+                        "VarCharValue": "231.09"
                     },
                     {
-                        "VarCharValue": "5.242"
+                        "VarCharValue": "227.63"
                     },
                     {
-                        "VarCharValue": "5.542"
+                        "VarCharValue": "228.97"
                     },
                     {
-                        "VarCharValue": "5.542"
+                        "VarCharValue": "228.97"
                     },
                     {
-                        "VarCharValue": "5850000"
+                        "VarCharValue": "28,204,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-24"
+                        "VarCharValue": "Dec 11, 2024"
                     },
                     {
-                        "VarCharValue": "5.528"
+                        "VarCharValue": "226.41"
                     },
                     {
-                        "VarCharValue": "5.594"
+                        "VarCharValue": "231.20"
                     },
                     {
-                        "VarCharValue": "5.452"
+                        "VarCharValue": "226.26"
                     },
                     {
-                        "VarCharValue": "5.514"
+                        "VarCharValue": "230.26"
                     },
                     {
-                        "VarCharValue": "5.514"
+                        "VarCharValue": "230.26"
                     },
                     {
-                        "VarCharValue": "18042500"
+                        "VarCharValue": "35,385,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-27"
+                        "VarCharValue": "Dec 10, 2024"
                     },
                     {
-                        "VarCharValue": "5.546"
+                        "VarCharValue": "226.09"
                     },
                     {
-                        "VarCharValue": "5.656"
+                        "VarCharValue": "229.06"
                     },
                     {
-                        "VarCharValue": "5.462"
+                        "VarCharValue": "224.20"
                     },
                     {
-                        "VarCharValue": "5.492"
+                        "VarCharValue": "225.04"
                     },
                     {
-                        "VarCharValue": "5.492"
+                        "VarCharValue": "225.04"
                     },
                     {
-                        "VarCharValue": "9047000"
+                        "VarCharValue": "31,199,900"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-28"
+                        "VarCharValue": "Dec 9, 2024"
                     },
                     {
-                        "VarCharValue": "5.558"
+                        "VarCharValue": "227.21"
                     },
                     {
-                        "VarCharValue": "5.65"
+                        "VarCharValue": "230.08"
                     },
                     {
-                        "VarCharValue": "5.534"
+                        "VarCharValue": "225.67"
                     },
                     {
-                        "VarCharValue": "5.622"
+                        "VarCharValue": "226.09"
                     },
                     {
-                        "VarCharValue": "5.622"
+                        "VarCharValue": "226.09"
                     },
                     {
-                        "VarCharValue": "4446000"
+                        "VarCharValue": "46,819,400"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-06-29"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.7"
+                        "VarCharValue": "Dec 6, 2024"
                     },
                     {
-                        "VarCharValue": "5.818"
+                        "VarCharValue": "220.75"
                     },
                     {
-                        "VarCharValue": "5.614"
+                        "VarCharValue": "227.15"
                     },
                     {
-                        "VarCharValue": "5.658"
+                        "VarCharValue": "220.60"
                     },
                     {
-                        "VarCharValue": "5.658"
+                        "VarCharValue": "227.03"
                     },
                     {
-                        "VarCharValue": "7309000"
+                        "VarCharValue": "227.03"
+                    },
+                    {
+                        "VarCharValue": "44,178,100"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-06-30"
+                        "VarCharValue": "Dec 5, 2024"
                     },
                     {
-                        "VarCharValue": "5.7"
+                        "VarCharValue": "218.03"
                     },
                     {
-                        "VarCharValue": "5.866"
+                        "VarCharValue": "222.15"
                     },
                     {
-                        "VarCharValue": "5.68"
+                        "VarCharValue": "217.30"
                     },
                     {
-                        "VarCharValue": "5.826"
+                        "VarCharValue": "220.55"
                     },
                     {
-                        "VarCharValue": "5.826"
+                        "VarCharValue": "220.55"
                     },
                     {
-                        "VarCharValue": "4733500"
+                        "VarCharValue": "41,140,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-07-01"
+                        "VarCharValue": "Dec 4, 2024"
                     },
                     {
-                        "VarCharValue": "5.814"
+                        "VarCharValue": "215.96"
                     },
                     {
-                        "VarCharValue": "5.92"
+                        "VarCharValue": "220.00"
                     },
                     {
-                        "VarCharValue": "5.76"
+                        "VarCharValue": "215.75"
                     },
                     {
-                        "VarCharValue": "5.804"
+                        "VarCharValue": "218.16"
                     },
                     {
-                        "VarCharValue": "5.804"
+                        "VarCharValue": "218.16"
                     },
                     {
-                        "VarCharValue": "4274500"
+                        "VarCharValue": "48,745,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-07-05"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.804"
+                        "VarCharValue": "Dec 3, 2024"
                     },
                     {
-                        "VarCharValue": "5.904"
+                        "VarCharValue": "210.31"
                     },
                     {
-                        "VarCharValue": "5.742"
+                        "VarCharValue": "214.02"
                     },
                     {
-                        "VarCharValue": "5.828"
+                        "VarCharValue": "209.65"
                     },
                     {
-                        "VarCharValue": "5.828"
+                        "VarCharValue": "213.44"
                     },
                     {
-                        "VarCharValue": "4980000"
+                        "VarCharValue": "213.44"
+                    },
+                    {
+                        "VarCharValue": "32,214,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-07-06"
+                        "VarCharValue": "Dec 2, 2024"
                     },
                     {
-                        "VarCharValue": "5.828"
+                        "VarCharValue": "209.96"
                     },
                     {
-                        "VarCharValue": "5.828"
+                        "VarCharValue": "212.99"
                     },
                     {
-                        "VarCharValue": "5.71"
+                        "VarCharValue": "209.51"
                     },
                     {
-                        "VarCharValue": "5.792"
+                        "VarCharValue": "210.71"
                     },
                     {
-                        "VarCharValue": "5.792"
+                        "VarCharValue": "210.71"
                     },
                     {
-                        "VarCharValue": "4634500"
+                        "VarCharValue": "39,523,200"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-07-07"
+                        "VarCharValue": "Nov 29, 2024"
                     },
                     {
-                        "VarCharValue": "5.828"
+                        "VarCharValue": "205.83"
                     },
                     {
-                        "VarCharValue": "6.0"
+                        "VarCharValue": "208.20"
                     },
                     {
-                        "VarCharValue": "5.802"
+                        "VarCharValue": "204.59"
                     },
                     {
-                        "VarCharValue": "5.946"
+                        "VarCharValue": "207.89"
                     },
                     {
-                        "VarCharValue": "5.946"
+                        "VarCharValue": "207.89"
                     },
                     {
-                        "VarCharValue": "6639500"
+                        "VarCharValue": "24,892,400"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-07-08"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.978"
+                        "VarCharValue": "Nov 27, 2024"
                     },
                     {
-                        "VarCharValue": "5.978"
+                        "VarCharValue": "206.98"
                     },
                     {
-                        "VarCharValue": "5.718"
+                        "VarCharValue": "207.64"
                     },
                     {
-                        "VarCharValue": "5.762"
+                        "VarCharValue": "205.05"
                     },
                     {
-                        "VarCharValue": "5.762"
+                        "VarCharValue": "205.74"
                     },
                     {
-                        "VarCharValue": "6203000"
+                        "VarCharValue": "205.74"
+                    },
+                    {
+                        "VarCharValue": "28,061,600"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-07-11"
+                        "VarCharValue": "Nov 26, 2024"
                     },
                     {
-                        "VarCharValue": "5.68"
+                        "VarCharValue": "201.90"
                     },
                     {
-                        "VarCharValue": "5.706"
+                        "VarCharValue": "208.00"
                     },
                     {
-                        "VarCharValue": "5.6"
+                        "VarCharValue": "201.79"
                     },
                     {
-                        "VarCharValue": "5.67"
+                        "VarCharValue": "207.86"
                     },
                     {
-                        "VarCharValue": "5.67"
+                        "VarCharValue": "207.86"
                     },
                     {
-                        "VarCharValue": "4879000"
+                        "VarCharValue": "41,673,700"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-07-12"
+                        "VarCharValue": "Nov 25, 2024"
                     },
                     {
-                        "VarCharValue": "5.674"
+                        "VarCharValue": "199.28"
                     },
                     {
-                        "VarCharValue": "5.818"
+                        "VarCharValue": "201.95"
                     },
                     {
-                        "VarCharValue": "5.6"
+                        "VarCharValue": "199.00"
                     },
                     {
-                        "VarCharValue": "5.634"
+                        "VarCharValue": "201.45"
                     },
                     {
-                        "VarCharValue": "5.634"
+                        "VarCharValue": "201.45"
                     },
                     {
-                        "VarCharValue": "5227000"
+                        "VarCharValue": "40,685,700"
                     }
                 ]
             },
             {
                 "Data": [
                     {
-                        "VarCharValue": "2011-07-13"
+                        "VarCharValue": "AMZN"
                     },
                     {
-                        "VarCharValue": "5.686"
+                        "VarCharValue": "Nov 22, 2024"
                     },
                     {
-                        "VarCharValue": "5.806"
+                        "VarCharValue": "198.25"
                     },
                     {
-                        "VarCharValue": "5.58"
+                        "VarCharValue": "199.26"
                     },
                     {
-                        "VarCharValue": "5.728"
+                        "VarCharValue": "196.75"
                     },
                     {
-                        "VarCharValue": "5.728"
+                        "VarCharValue": "197.12"
                     },
                     {
-                        "VarCharValue": "5330000"
+                        "VarCharValue": "197.12"
+                    },
+                    {
+                        "VarCharValue": "31,530,800"
                     }
                 ]
             },
             {
                 "Data": [
+                    {
+                        "VarCharValue": "AMZN"
+                    },
                     {
-                        "VarCharValue": "2011-07-14"
+                        "VarCharValue": "Nov 21, 2024"
                     },
                     {
-                        "VarCharValue": "5.706"
+                        "VarCharValue": "203.49"
                     },
                     {
-                        "VarCharValue": "5.792"
+                        "VarCharValue": "203.49"
                     },
                     {
-                        "VarCharValue": "5.45"
+                        "VarCharValue": "195.75"
                     },
                     {
-                        "VarCharValue": "5.522"
+                        "VarCharValue": "198.38"
                     },
                     {
-                        "VarCharValue": "5.522"
+                        "VarCharValue": "198.38"
                     },
                     {
-                        "VarCharValue": "5795000"
+                        "VarCharValue": "58,800,000"
                     }
                 ]
             }
         ],
         "ResultSetMetadata": {
             "ColumnInfo": [
+                {
+                    "CatalogName": "hive",
+                    "SchemaName": "",
+                    "TableName": "",
+                    "Name": "code",
+                    "Label": "code",
+                    "Type": "varchar",
+                    "Precision": 2147483647,
+                    "Scale": 0,
+                    "Nullable": "UNKNOWN",
+                    "CaseSensitive": true
+                },
                 {
                     "CatalogName": "hive",
                     "SchemaName": "",
@@ -2547,11 +2862,11 @@
                     "TableName": "",
                     "Name": "open",
                     "Label": "open",
-                    "Type": "double",
-                    "Precision": 17,
+                    "Type": "varchar",
+                    "Precision": 2147483647,
                     "Scale": 0,
                     "Nullable": "UNKNOWN",
-                    "CaseSensitive": false
+                    "CaseSensitive": true
                 },
                 {
                     "CatalogName": "hive",
@@ -2559,11 +2874,11 @@
                     "TableName": "",
                     "Name": "high",
                     "Label": "high",
-                    "Type": "double",
-                    "Precision": 17,
+                    "Type": "varchar",
+                    "Precision": 2147483647,
                     "Scale": 0,
                     "Nullable": "UNKNOWN",
-                    "CaseSensitive": false
+                    "CaseSensitive": true
                 },
                 {
                     "CatalogName": "hive",
@@ -2571,11 +2886,11 @@
                     "TableName": "",
                     "Name": "low",
                     "Label": "low",
-                    "Type": "double",
-                    "Precision": 17,
+                    "Type": "varchar",
+                    "Precision": 2147483647,
                     "Scale": 0,
                     "Nullable": "UNKNOWN",
-                    "CaseSensitive": false
+                    "CaseSensitive": true
                 },
                 {
                     "CatalogName": "hive",
@@ -2583,11 +2898,11 @@
                     "TableName": "",
                     "Name": "close",
                     "Label": "close",
-                    "Type": "double",
-                    "Precision": 17,
+                    "Type": "varchar",
+                    "Precision": 2147483647,
                     "Scale": 0,
                     "Nullable": "UNKNOWN",
-                    "CaseSensitive": false
+                    "CaseSensitive": true
                 },
                 {
                     "CatalogName": "hive",
@@ -2595,11 +2910,11 @@
                     "TableName": "",
                     "Name": "adj_close",
                     "Label": "adj_close",
-                    "Type": "double",
-                    "Precision": 17,
+                    "Type": "varchar",
+                    "Precision": 2147483647,
                     "Scale": 0,
                     "Nullable": "UNKNOWN",
-                    "CaseSensitive": false
+                    "CaseSensitive": true
                 },
                 {
                     "CatalogName": "hive",
@@ -2607,11 +2922,11 @@
                     "TableName": "",
                     "Name": "volume",
                     "Label": "volume",
-                    "Type": "bigint",
-                    "Precision": 19,
+                    "Type": "varchar",
+                    "Precision": 2147483647,
                     "Scale": 0,
                     "Nullable": "UNKNOWN",
-                    "CaseSensitive": false
+                    "CaseSensitive": true
                 }
             ]
         }
