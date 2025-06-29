@@ -9,4 +9,9 @@ dependencies = [
     "ipykernel>=6.29.5",
     "lxml>=5.4.0",
     "requests>=2.32.3",
+    "selenium>=4.33.0",
 ]
+
+# パッケージ設定を追加
+[tool.setuptools.packages.find]
+include = ["driver*", "sample*", "deplicated*"]
