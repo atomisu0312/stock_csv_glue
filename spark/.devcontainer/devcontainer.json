@@ -1,0 +1,28 @@
+{
+  "name": "PySpark Development (Latest)",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+
+	"runArgs": ["--env-file", ".devcontainer/devcontainer_temp.env"],
+	"workspaceFolder": "/workspace",
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+  "customizations": {
+      "vscode": {
+          "extensions": [
+            "bierner.markdown-mermaid",
+            "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+            "vscode-icons-team.vscode-icons",
+            "irongeek.vscode-env",
+            "ms-python.python",
+            "ms-azuretools.vscode-docker",
+            "dvirtz.parquet-viewer",
+            "mhutchie.git-graph",
+            "eriklynd.json-tools",
+            "ms-toolsai.jupyter",
+            "mechatroner.rainbow-csv",
+            "janisdd.vscode-edit-csv"
+          ]
+      }
+  }
+}
