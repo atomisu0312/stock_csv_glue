@@ -11,6 +11,7 @@ resource "aws_athena_database" "stock_data" {
 **/
 resource "aws_athena_workgroup" "stock_data" {
   name = "stock-data-workgroup-${var.project}"
+  force_destroy = true
   
   configuration {
     result_configuration {
