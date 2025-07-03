@@ -34,3 +34,11 @@ resource "aws_s3_bucket_public_access_block" "stock_data_public_access_block" {
   ignore_public_acls      = true
   restrict_public_buckets = true
 } 
+
+# スクリプトを保管するS3バケット
+resource "aws_s3_bucket" "glue_script" {
+  bucket = "${var.project}-glue-script"
+  tags = {
+    Project = var.tag_base
+  }
+}

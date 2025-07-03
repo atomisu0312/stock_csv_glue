@@ -1,10 +1,3 @@
-# スクリプトを保管するS3バケット
-resource "aws_s3_bucket" "glue_script" {
-  bucket = "${var.project}-glue-script"
-  tags = {
-    Project = var.tag_base
-  }
-}
 # Glue Crawler
 resource "aws_glue_job" "stock_data_job" {
   name          = "${var.project}-stock-data-job"
@@ -12,7 +5,7 @@ resource "aws_glue_job" "stock_data_job" {
 
   command {
     name = "glueetl"
-    script_location = "s3://${aws_s3_bucket.glue_script.bucket}/script/glue_script.py"
+    script_location = "s3://${var.project}-glue-script/script/glue_script.py"
   }
 
   default_arguments = {
