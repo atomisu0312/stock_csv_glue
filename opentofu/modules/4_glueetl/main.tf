@@ -1,3 +1,15 @@
+resource "aws_s3_object" "glue_etl_script" {
+  bucket = "${var.project}-glue-script"
+  key    = "script/process.py"
+  source = "../../../../spark/process.py" # main.tfのディレクトリからの相対パスである点に注意
+}
+
+resource "aws_s3_object" "glue_etl_script_setup" {
+  bucket = "${var.project}-glue-script"
+  key    = "script/setup.py"
+  source = "../../../../spark/prod/setup.py" # main.tfのディレクトリからの相対パスである点に注意
+}
+
 # Glue Crawler
 resource "aws_glue_job" "stock_data_job" {
   name          = "${var.project}-stock-data-job"
@@ -5,12 +17,13 @@ resource "aws_glue_job" "stock_data_job" {
 
   command {
     name = "glueetl"
-    script_location = "s3://${var.project}-glue-script/script/glue_script.py"
+    script_location = "s3://${var.project}-glue-script/${aws_s3_object.glue_etl_script.key}"
   }
 
   default_arguments = {
     "--job-language" = "python"
     "--job-type" = "glueetl"
+    "--extra-py-files" = "s3://${var.project}-glue-script/${aws_s3_object.glue_etl_script_setup.key}"
   }
 
   glue_version = "4.0"
