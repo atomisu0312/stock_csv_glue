@@ -5,7 +5,7 @@
 
 set -eu
 
-# デフォルト値
+# 1. デフォルト値の設定
 DEFAULT_REGION="ap-northeast-1"
 DEFAULT_BUCKET="stock-csv-glue-123456-stock-data"
 DEFAULT_WORKGROUP="stock-data-workgroup-stock-csv-glue-123456"
@@ -22,7 +22,8 @@ echo "Region: $REGION"
 echo "Output Bucket: $BUCKET_NAME"
 echo "====================================="
 
-# 1. 利用可能なNamed Queriesを取得
+# 2. クエリを実行
+# 2.1. 利用可能なNamed Queriesを取得
 echo "Getting available named queries..."
 NAMED_QUERIES=$(aws athena list-named-queries --region $REGION --work-group $WORKGROUP_NAME --query 'NamedQueryIds' --output text)
 
@@ -31,28 +32,13 @@ if [ -z "$NAMED_QUERIES" ] || [ "$NAMED_QUERIES" = "None" ]; then
     exit 1
 fi
 
-# 2. 利用可能なWorkgroupsを取得
-echo "Getting available workgroups..."
-WORKGROUPS=$(aws athena list-work-groups --region $REGION --query 'WorkGroups[].Name' --output text)
-
-if [ -z "$WORKGROUPS" ] || [ "$WORKGROUPS" = "None" ]; then
-    echo "Error: No workgroups found"
-    exit 1
-fi
-
-# 3. デフォルト値を設定（最初に見つかったもの）
-if [ -z "$WORKGROUP_NAME" ]; then
-    WORKGROUP_NAME=$(echo $WORKGROUPS | cut -d' ' -f1)
-    echo "Using first available workgroup: $WORKGROUP_NAME"
-fi
-
-# 4. Named Queryの詳細を取得
+# 2.2. Named Queryの詳細を取得
 echo "Getting named query details..."
 QUERY_ID=$(aws athena list-named-queries --work-group $WORKGROUP_NAME --query "NamedQueryIds[$QUERY_INDEX]" --output text)
 
 echo "Found Query ID: $QUERY_ID"
 
-# 5. Named Queryのクエリ文字列を取得
+# 2.3. Named Queryのクエリ文字列を取得
 echo "Getting query string..."
 QUERY_STRING=$(aws athena get-named-query \
     --named-query-id $QUERY_ID \
@@ -62,7 +48,7 @@ QUERY_STRING=$(aws athena get-named-query \
 
 echo "Query String: $QUERY_STRING"
 
-# 6. クエリを実行
+# 2.4. クエリを実行
 echo "Executing query..."
 QUERY_EXECUTION_ID=$(aws athena start-query-execution \
     --query-string "$QUERY_STRING" \
@@ -73,7 +59,7 @@ QUERY_EXECUTION_ID=$(aws athena start-query-execution \
 
 echo "Query Execution ID: $QUERY_EXECUTION_ID"
 
-# 7. クエリの完了を待機
+# 3. クエリの完了を待機
 echo "Waiting for query completion..."
 while true; do
     STATUS=$(aws athena get-query-execution \
@@ -109,13 +95,14 @@ while true; do
     esac
 done
 
-# 8. 結果を取得
+# 4. 結果を取得・保存
+# 4.1. 結果を取得
 echo "Getting query results..."
 aws athena get-query-results \
     --query-execution-id $QUERY_EXECUTION_ID \
     --region $REGION > ./result.json
 
-# 9. 結果ファイルの場所を表示
+# 4.2. 結果ファイルの場所を表示
 echo ""
 echo "=== Query Results ==="
 echo "Results are saved to: s3://$BUCKET_NAME/athena_results/"
