@@ -13,7 +13,15 @@
 
 ### 引数パターン
 ```bash
-./script_name.sh [ARG1] [ARG2] [ARG3] [ARG4]
+# 例: ./run_athena_query.sh [WORKGROUP_NAME] [REGION] [BUCKET_NAME] [QUERY_INDEX]
+
+# スクリプト内でのデフォルト値設定例
+DEFAULT_REGION="ap-northeast-1"
+DEFAULT_BUCKET="your-default-bucket"
+
+# 引数が指定されない場合はデフォルト値を使用
+REGION=${2:-$DEFAULT_REGION}
+BUCKET_NAME=${3:-$DEFAULT_BUCKET}
 ```
 
 ### 共通の引数仕様
@@ -34,6 +42,12 @@
 
 ## スクリプト例
 
+### S3アップロードスクリプト
+```bash
+./run_s3_upload.sh [CSV_PATH] [BUCKET_NAME] [REGION] [S3_PREFIX]
+```
+
+
 ### Athenaクエリ実行スクリプト
 ```bash
 ./run_athena_query.sh [WORKGROUP_NAME] [REGION] [BUCKET_NAME] [QUERY_INDEX]
@@ -43,8 +57,8 @@
 
 1. デフォルト値の設定
 2. 本命のAPIを実行
-3. 本命のAPIの完了を待機
-4. 結果を取得・保存
+3. 本命のAPIの完了を待機（オプショナル）
+4. 結果を取得・保存（オプショナル）
 
 ## 開発ガイドライン
 
