@@ -6,6 +6,7 @@ from datetime import datetime
 from setup import setup
 import re
 
+# TODO 変数名が微妙、定数っぽくない
 database_name = "stock-catalog-db-stock-csv-glue-123456"
 table_name = "stock_data_table"
 bucket = 'stock-csv-glue-123456-stock-data'
@@ -18,12 +19,13 @@ def parse_date_string(date_str):
     return None
   
   try:
+    # TODO 文字列と月の対応表は関数の外で定義しておく
     month_map = {
         'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
         'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
     }
     
-    pattern = r'^([A-Za-z]{3})\s+(\d{1,2}),\s+(\d{4})$'
+    pattern = r'^([A-Za-z]{3})\s+(\d{1,2}),\s+(\d{4})$' # TODO パターンも関数の外で定義しておく
     match = re.match(pattern, date_str.strip())
     
     if match:
@@ -32,7 +34,7 @@ def parse_date_string(date_str):
       day = int(day_str)
       year = int(year_str)
       
-      if month and 1 <= day <= 31 and 1900 <= year <= 2100:
+      if month and 1 <= day <= 31 and 1900 <= year <= 9999:
           return datetime(year, month, day).date()
     
     return None
@@ -57,4 +59,5 @@ def process_df(df):
   print("日付変換と移動平均計算完了")
   return df_new
 
+# 上記の関数を実行する、なお前後の処理をデコレーターで定義しているので注意
 process_df() # type: ignore

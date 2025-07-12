@@ -19,6 +19,7 @@ def setup(glue_database_name, glue_table_name, target_s3_bucket):
     def wrapper(*args, **kwargs):
       print("=== 処理開始 ===")
 
+      # try-finallyで囲ってもいいのでは？
       # SparkSessionの作成
       spark = SparkSession.builder \
           .appName("StockDataProcessing") \
@@ -30,6 +31,7 @@ def setup(glue_database_name, glue_table_name, target_s3_bucket):
       df = spark.read.csv("./sampledata/input.csv", header=True, inferSchema=True)
       print(f"データ読み込み完了: {df.count()}行")
 
+      # ローカル固有の処理である点に注意
       df = convert_column_names(df)
 
       # データフレームの変換

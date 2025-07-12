@@ -13,12 +13,12 @@ resource "aws_glue_catalog_table" "stock_data" {
   
   storage_descriptor {
     location      = "s3://${var.s3_bucket_id}/raw_files/"
-    input_format  = "org.apache.hadoop.mapred.TextInputFormat"
+    input_format  = "org.apache.hadoop.mapred.TextInputFormat" # TODO リサーチしておくこと
     output_format = "org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat"
     
     ser_de_info {
       name                  = "csv"
-      serialization_library = "org.apache.hadoop.hive.serde2.OpenCSVSerde"
+      serialization_library = "org.apache.hadoop.hive.serde2.OpenCSVSerde" # TODO リサーチしておくこと
       
       parameters = {
         "separatorChar" = ","
@@ -84,18 +84,18 @@ resource "aws_glue_crawler" "stock_crawler" {
   
   # S3ターゲット設定
   s3_target {
-    path = "s3://${var.s3_bucket_id}/raw_files/"
+    path = "s3://${var.s3_bucket_id}/raw_files/" # TODO S3ターゲットもmainで定義しておくといいかも
   }
   
   # スキーマ変更ポリシー（既存テーブルを更新）
   schema_change_policy {
     delete_behavior = "DEPRECATE_IN_DATABASE"
-    update_behavior = "UPDATE_IN_DATABASE"  # 既存テーブルを更新
+    update_behavior = "UPDATE_IN_DATABASE"  # 既存テーブルを更新 TODO あったらダメじゃねこれ？
   }
   
   # 再クロールポリシー
   recrawl_policy {
-    recrawl_behavior = "CRAWL_EVERYTHING"
+    recrawl_behavior = "CRAWL_EVERYTHING" # 固定でOK（とりあえず）
   }
   
   # リネージ設定
